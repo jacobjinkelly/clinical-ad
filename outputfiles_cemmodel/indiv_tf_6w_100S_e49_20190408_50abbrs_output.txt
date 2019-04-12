@@ -1,0 +1,950 @@
+['with', 'use', 'of', 'iliac', 'crest', 'autograft', 'local', 'autograft', 'and', 'infused'] ['N', 'revision', 'internal', 'fixation', 'left', 'proximal', 'femur', 'with', 'a', 'N']
+{'bone morphogenic proteins', 'bone morphogenic protein'} {'bone morphogenetic proteins', 'bone morphogenetic protein'}
+['go', 'undergo', 'an', 'anterior', 'spinal', 'fusion', 'with', 'the', 'use', 'of'] ['graft', 'hospital', 'course', 'ms', 'name', 'was', 'transferred', 'to', 'the', 'general']
+{'bisphosphate'} {'bone morphogenetic proteins', 'bone morphogenetic protein'}
+['lN', 'lN', 'lN', 'sN', 'with', 'alif', 'synthes', 'bone', 'grafts', 'and'] ['with', 'complete', 'diskectomy', 'at', 'lN', 'lN', 'lN', 'lN', 'lN', 'sN']
+{'bone morphogenic proteins', 'bone morphogenic protein'} {'bone morphogenetic proteins', 'bone morphogenetic protein'}
+['procedures', 'mmddN', 'lN', 'sN', 'plif', 'with', 'instrumentation', 'bone', 'graft', 'and'] ['hospital', 'course', 'the', 'patient', 'was', 'taken', 'to', 'the', 'operating', 'room']
+{'bone morphogenic proteins', 'bone morphogenic protein'} {'bone morphogenetic proteins', 'bone morphogenetic protein'}
+['the', 'right', 'distal', 'femur', 'with', 'a', 'custom', 'locking', 'plate', 'and'] ['hospital', 'course', 'the', 'patient', 'was', 'admitted', 'to', 'a', 'ward', 'afterwards']
+{'bone morphogenic proteins', 'bone morphogenic protein'} {'bone morphogenetic proteins', 'bone morphogenetic protein'}
+['his', 'clinic', 'she', 'decided', 'to', 'undergo', 'repeat', 'internal', 'fixation', 'and'] ['application', 'to', 'her', 'nonunion', 'of', 'the', 'left', 'humerus', 'hospital', 'course']
+{'basic metabolic panel'} {'bone morphogenetic proteins', 'bone morphogenetic protein'}
+['white', 'female', 'who', 'underwent', 'a', 'disk', 'space', 'injection', 'lN', 'lN'] ['and', 'type', 'for', 'degenerative', 'disk', 'disease', 'and', 'chronic', 'pain', 'with']
+{'bone morphogenic proteins', 'bone morphogenic protein'} {'bone morphogenetic proteins', 'bone morphogenetic protein'}
+bmp from casi: CORRECT=0 TOTAL=7
+['q', 'N', 'h', 'as', 'needed', 'for', 'cough', 'disp', 'N', 'ml', 'refills', 'N', 'outpatient', 'lab', 'work', 'please', 'draw', 'a', 'cbc', 'and'] ['prior', 'in', 'N', 'week', 'and', 'fax', 'to', 'dr', 'NAME']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['and', 't', 'N', 'fusion', 'c', 'N', 't', 'N', 'cage', 'placement', 'N', 'anterior', 'instrumentation', 'c', 'N', 't', 'N', 'autograft', 'allograft', 'and'] []
+{'bone morphogenic proteins', 'bone morphogenic protein'} {'bone morphogenic proteins', 'bone morphogenic protein'}
+['sig', 'one', 'tablet', 'po', 'once', 'a', 'day', 'for', 'N', 'days', 'disp', 'N', 'tablet', 'refills', 'N', 'outpatient', 'lab', 'work', 'please', 'draw'] ['and', 'cbc', 'on', 'NAME', 'N']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['followup', 'instructions', 'you', 'will', 'need', 'infectious', 'disease', 'follow', 'up', 'as', 'below', 'please', 'have', 'liver', 'function', 'tests'] ['blood', 'level', 'checked', 'every', 'week', 'and', 'fax', 'results', 'to', 'the', 'number', 'below', 'provider', 'NAME', 'md', 'phone', 'NAME', 'w', 'NAME', 'at']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['N', 'tablet', 'refills', 'N', 'outpatient', 'NAME', 'work', 'pt', 'inr', 'daily', 'call', 'dr', 'NAME', 'N', 'with', 'results', 'N', 'outpatient', 'N', 'work'] ['on', 'N', 'st', 'blood', 'draw', 'for', 'inr', 'once', 'N', 'diovan', 'N', 'mg', 'tablet', 'sig', 'one', 'N', 'tablet', 'po', 'once', 'a']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['partial', 'vertebrectomy', 'of', 'l', 'N', 'l', 'N', 'and', 'l', 'N', 'fusion', 'l', 'N', 's', 'N', 'anterior', 'spacers', 'x', 'N', 'autograft'] ['and', 'allograft', 'on', 'N', 'sp', 'total', 'laminectomy', 'of', 'l', 'N', 'and', 'N', 'fusion', 'l', 'N', 'to', 's', 'N', 'instrumentation', 'l']
+{'bone morphogenic proteins', 'bone morphogenic protein'} {'bone morphogenic proteins', 'bone morphogenic protein'}
+['N', 'outpatient', 'lab', 'work', 'please', 'have', 'weekly'] ['while', 'you', 'are', 'receiving', 'nafcillin', 'N', 'outpatient', 'lab', 'work', 'surveillance', 'blood', 'cultures', 'to', 'be', 'checked', 'within', 'N', 'days', 'after', 'completing']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['laboratories', 'were', 'significant', 'for', 'a', 'white', 'count', 'of', 'N', 'a', 'troponin', 'of', 'N', 'with', 'negative', 'ck', 'mb', 'index', 'and', 'a'] ['high', 'at', 'N', 'the', 'patient', 'was', 'admitted', 'to', 'HOSPITAL', 'and', 'was', 'treated', 'for', 'a', 'chronic', 'obstructive', 'pulmonary', 'disease', 'exacerbation', 'with']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['discharge', 'instructions', 'continue', 'N', 'hemodialysis', 'q', 'monday', 'wednesday', 'friday', 'check', 'complete', 'blood', 'count'] ['vancomycin', 'level', 'blood', 'cultures', 'qhd', 'straight', 'catheter', 'qod', 'check', 'vancomycin', 'level', 'q', 'day', 'until', 'HOSPITAL', 'with', 'santal']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['needed', 'for', 'pain', 'for', 'N', 'days', 'disp', 'N', 'tablet', 'refills', 'N', 'outpatient', 'lab', 'work', 'weekly', 'laboratory', 'work', 'complete', 'blood', 'count'] ['liver', 'function', 'tests', 'vancomycin', 'trough', 'levels']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['and', 'dr', 'NAME', 'N', 'partial', 'vertebrectomies', 'of', 't', 'N', 'and', 'N', 'fusion', 't', 'N', 't', 'N', 'anterior', 'spacer', 'N', 'autograft'] ['and', 'allograft', 'N', 'bronchoscopy', 'and', 'left', 'posterolateral', 'thoracotomy', 'partial', 'vertebrectomy', 'of', 't', 'N', 't', 'N', 'and', 't', 'N', 'fusion', 'of']
+{'bone morphogenic proteins', 'bone morphogenic protein'} {'bone morphogenic proteins', 'bone morphogenic protein'}
+['mg', 'tablet', 'sig', 'N', 'tablet', 'po', 'mon', 'wed', 'fri', 'N', 'outpatient', 'lab', 'work', 'please', 'carry', 'out', 'daily', 'weights', 'please', 'monitor'] ['every', 'week', 'or', 'as', 'appropiate', 'and', 'replete', 'electrolytes', 'after', 'reporting', 'results', 'to', 'a', 'doctor', 'please', 'monitor', 'hematocrit', 'weekly', 'and', 'report']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['open', 'reduction', 'plate', 'and', 'screw', 'fixation', 'of', 'left', 'distal', 'radius', 'N', 'bone', 'graft', 'using', 'both', 'a', 'fibular', 'strut', 'and', 'demineralized'] ['left', 'distal', 'radius', 'N', 'application', 'of', 'long', 'arm', 'splint']
+{'bone morphogenic proteins', 'bone morphogenic protein'} {'bone morphogenic proteins', 'bone morphogenic protein'}
+['trazodone', 'N', 'mg', 'tablet', 'sig', 'one', 'tablet', 'po', 'hs', 'as', 'needed', 'for', 'insomnia', 'N', 'outpatient', 'lab', 'work', 'please', 'have', 'a'] ['checked', 'and', 'faxed', 'to', 'the', 'patients', 'pcp', 'NAME', 'phone', 'N', 'fax', 'N', 'on', 'friday', 'N']
+{'basic metabolic panel'} {'basic metabolic panel'}
+['N', 'mexiletine', 'N', 'mg', 'capsule', 'sig', 'one', 'capsule', 'po', 'three', 'times', 'a', 'day', 'N', 'outpatient', 'lab', 'work', 'please', 'draw', 'a'] ['on', 'NAME', 'fax', 'N', 'colace', 'N', 'mg', 'capsule', 'sig', 'one', 'capsule', 'po', 'once', 'a', 'day', 'as', 'needed', 'for', 'constipation']
+{'basic metabolic panel'} {'basic metabolic panel'}
+bmp from mimic: CORRECT=15 TOTAL=15
+['or', 'rales', 'cardiac', 'regular', 'rate', 'and', 'rhythm', 'he', 'has', 'a'] ['of', 'about', 'N', 'he', 'has', 'a', 'i', 'vi', 'systolic', 'murmur']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['recommendations', 'N', 'the', 'patient', 'needs', 'a', 'central', 'line', 'N', 'monitor'] ['N', 'attempt', 'diuresis', 'with', 'lasix', 'N', 'would', 'reduce', 'iv', 'fluid']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'urine', 'out', 'and', 'N', 'of', 'blood', 'loss', 'noted', 'her'] ['is', 'currently', 'N', 'general', 'she', 'is', 'awake', 'and', 'alert', 'she']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['a', 'loud', 'systolic', 'ejection', 'murmur', 'which', 'is', 'late', 'peaking', 'her'] ['is', 'N', 'abdomen', 'she', 'has', 'significant', 'truncal', 'obesity', 'but', 'no']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['no', 'avail', 'today', 'his', 'fluids', 'were', 'cut', 'off', 'has', 'his'] ['has', 'risen', 'from', 'N', 'to', 'N', 'luckily', 'his', 'oxygenation', 'has']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pa', 'pressures', 'and'] ['were', 'both', 'high', 'the', 'patient', 'was', 'treated', 'with', 'nesiritide', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'to', 'N', 'cv', 'line', 'was', 'placed', 'and', 'his', 'initial'] ['rate', 'was', 'in', 'the', 'range', 'of', 'N', 'and', 'internal', 'line']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'possible', 'macrodantin', 'toxicity', 'plan', 'and', 'recommendations', 'N', 'fluids', 'with'] ['as', 'guide', 'for', 'volume', 'N', 'low', 'dose', 'dopamine', 'has', 'been']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['had', 'poor', 'response', 'then', 'he', 'was', 'given', 'eight', 'cycles', 'of'] ['with', 'good', 'response', 'the', 'patient', 'was', 'in', 'remission', 'for', 'approximately']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['normal', 'he', 'will', 'continue', 'to', 'be', 'followed', 'with', 'blood', 'pressures'] ['pulmonary', 'artery', 'pressure', 'and', 'urine', 'output', 'we', 'will', 'get', 'a']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'NN', 'respirations', 'N', 'the', 'patient', 'is', 'on', 'room', 'air'] ['estimated', 'at', 'N', 'cm', 'lungs', 'clear', 'to', 'auscultation', 'bilaterally', 'cardiac']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['neck', 'neck', 'examination', 'demonstrates', 'no', 'significant', 'jvd', 'with', 'an', 'approximately'] ['of', 'N', 'no', 'bruits', 'are', 'appreciated', 'cardiovascular', 'irregularly', 'irregular', 'rhythm']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rate', 'is', 'in', 'the', 'Ns', 'and', 'irregularly', 'irregular', 'his', 'initial'] ['is', 'in', 'the', 'range', 'of', 'N', 'positive', 'urine', 'output', 'noted']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'right', 'ventricle', 'with', 'good', 'function', 'pa', 'pressure', 'of', 'N+'] ['the', 'patient', 'responded', 'well', 'to', 'the', 'above', 'mentioned', 'therapy', 'as']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'cardiac', 'instability', 'recommendations', 'N', 'need', 'central', 'venous', 'line', 'for'] ['monitoring', 'N', 'follow', 'arterial', 'blood', 'gases', 'N', 'bicarbonate', 'replacement', 'will']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['respiratory', 'rate', 'of', 'N', 'per', 'minute', 't', 'max', 'is', 'N'] ['was', 'N', 'her', 'weight', 'was', 'N', 'kg', 'and', 'yesterday', 'it']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'now', 'an', 'elevation', 'in', 'the', 'right', 'ventricular', 'pressures', 'her'] ['was', 'N', 'yesterday', 'and', 'is', 'about', 'N', 'to', 'N', 'which']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['shifts', 'postoperatively', 'along', 'with', 'some', 'cardiac', 'stunning', 'postop', 'since', 'his'] ['and', 'wedge', 'pressure', 'were', 'low', 'earlier', 'today', 'we', 'will', 'plan']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['stated', 'previously', 'we', 'will', 'increase', 'his', 'diuresis', 'particularly', 'since', 'his'] ['is', 'high', 'and', 'his', 'urinary', 'output', 'has', 'trickled', 'off', 'transplant']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'ventilator', 'physical', 'examination', 'vital', 'signs', 'temperature', 'N', 'pulse', 'N'] ['N', 'blood', 'pressure', 'NN', 'respiratory', 'rate', 'N', 'drips', 'are', 'ativan']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'N', 'pulse', 'is', 'N', 'he', 'is', 'afebrile', 'his'] ['is', 'N', 'his', 'blood', 'sugars', 'have', 'been', 'less', 'than', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['kg', 'temperature', 'N', 'pulse', 'N', 'blood', 'pressure', 'NN', 'respirations', 'N'] ['is', 'N', 'heent', 'pupils', 'are', 'N', 'mm', 'and', 'reactive', 'there']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'vigorous', 'rehydration', 'N', 'rule', 'out', 'myocardial', 'infarction', 'protocol', 'N'] ['monitoring', 'N', 'will', 'add', 'tsh', 'and', 'free', 'tN', 'to', 'admitting']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['both', 'cll', 'and', 'cml', 'recommendations', 'N', 'central', 'line', 'placement', 'for'] ['monitoring', 'and', 'iv', 'access', 'N', 'continue', 'iv', 'fluid', 'infusion', 'in']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['from', 'congestive', 'cardiomyopathy', 'of', 'unknown', 'etiology', 'left', 'systolic', 'dysfunction', 'severe'] ['of', 'N', 'ra', 'of', 'N', 'pcw', 'of', 'N', 'cardiac', 'output']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['right', 'ventricular', 'hypertrophy', 'pa', 'pressure', 'estimates', 'of', 'N', 'mmhg', 'plus'] ['ekg', 'was', 'obtained', 'which', 'showed', 'lvh', 'with', 'repolarization', 'abnormalities', 'but']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['output', 'of', 'N', 'cardiac', 'index', 'of', 'N', 'wedge', 'of', 'N'] ['of', 'N', 'and', 'a', 'map', 'of', 'N', 'the', 'patient', 'also']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['dialysis', 'is', 'eminent', 'N', 'will', 'less', 'fluid', 'criteria', 'per', 'his'] ['history', 'of', 'present', 'illness', 'NAME', 'is', 'a', 'N', 'year', 'old']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['way', 'a', 'we', 'will', 'give', 'her', 'saline', 'and', 'follow', 'her'] ['b', 'we', 'will', 'use', 'pressors', 'to', 'maintain', 'blood', 'pressure', 'greater']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N+', 'to', 'N+', 'tricuspid', 'regurgitation', 'rv', 'systolic', 'pressure', 'N', 'plus'] ['aortic', 'arch', 'narrowing', 'with', 'a', 'gradient', 'of', 'N', 'mmhg', 'peak']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['sluggish', 'overnight', 'will', 'improve', 'with', 'the', 'hydration', 'and', 'the', 'higher'] ['of', 'approximately', 'N', 'if', 'the', 'patient', 'does', 'require', 'intervention', 'for']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['insufficiency', 'and', 'pulmonary', 'artery', 'pressures', 'estimated', 'at', 'NN', 'mmhg', 'plus'] ['subsequent', 'catheterization', 'revealed', 'right', 'atrial', 'pressures', 'of', 'NN', 'right', 'ventricular']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['role', 'here', 'also', 'her', 'pulmonary', 'artery', 'pressures', 'are', 'NN', 'and'] ['is', 'N', 'indicating', 'marked', 'volume', 'overload', 'the', 'patient', 'is', 'also']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'afebrile', 'and', 'oxygen', 'saturation', 'is', 'N', 'on', 'room', 'air'] ['is', 'N', 'his', 'pulmonary', 'capillary', 'wedge', 'pressure', 'is', 'N', 'pa']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['patient', 'dialyzes', 'monday', 'wednesday', 'friday', 'he', 'is', 'volume', 'down', 'by'] ['and', 'wedge', 'his', 'k', 'is', 'N', 'today', 'a', 'will', 'do']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'by', 'art', 'line', 'is', 'Ns', 'Ns', 'heart', 'rate', 'Ns'] ['is', 'N', 'oN', 'sats', 'are', 'N', 'on', 'the', 'ventilator', 'a']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'kilograms', 'pa', 'pressures', 'N', 'wedge', 'is', 'around', 'N'] ['N', 'general', 'he', 'is', 'pleasant', 'in', 'no', 'acute', 'distress', 'alert']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['would', 'gain', 'N', 'or', 'N', 'kilograms', 'between', 'dialysis', 'runs', 'his'] ['at', 'his', 'dry', 'weight', 'was', 'N', 'given', 'his', 'new', 'dry']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['seems', 'to', 'have', 'a', 'normal', 'volume', 'status', 'regarding', 'fluid', 'with'] ['repeated', 'by', 'me', 'at', 'N', 'to', 'N', 'she', 'does', 'have']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['hour', 'or', 'two', 'and', 'has', 'had', 'a', 'good', 'diuresis', 'her'] ['at', 'that', 'time', 'has', 'fallen', 'from', 'N', 'to', 'N', 'examination']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rehydrated', 'with', 'the', 'blood', 'and', 'iv', 'fluids', 'aiming', 'for', 'a'] ['in', 'the', 'N', 'range', 'N', 'empiric', 'levaquin', 'has', 'been', 'started']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['patient', 'was', 'noted', 'to', 'be', 'significantly', 'dehydrated', 'with', 'a', 'low'] ['this', 'was', 'thought', 'secondary', 'to', 'infection', 'and', 'decreased', 'oral', 'intake']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'supple', 'without', 'thyromegaly', 'he', 'does', 'have', 'a', 'right', 'sided'] ['line', 'chest', 'clear', 'to', 'auscultation', 'without', 'kyphosis', 'or', 'scoliosis', 'cardiac']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['also', 'did', 'have', 'a', 'right', 'heart', 'catheterization', 'which', 'showed', 'a'] ['of', 'N', 'rv', 'pressures', 'of', 'NN', 'pa', 'NN', 'wedge', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['patient', 'closely', 'from', 'cardiovascular', 'standpoint', 'including', 'blood', 'pressure', 'monitoring', 'and'] ['monitoring', 'given', 'patients', 'excellent', 'cardiac', 'status', 'postoperatively', 'patient', 'is', 'likely']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['which', 'showed', 'a', 'right', 'ventricular', 'systolic', 'pressure', 'of', 'N', 'plus'] ['and', 'a', 'pa', 'pressure', 'of', 'N', 'plus', 'cvp', 'however', 'in']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['settings', 'are', 'as', 'previously', 'noted', 'pulmonary', 'pressures', 'NN', 'wedge', 'N'] ['N', 'is', 'and', 'os', 'N', 'in', 'N', 'out', 'general', 'vented']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['bradycardia', 'with', 'is', 'irregular', 'normal', 'sN', 'sN', 'no', 'murmurs', 'the'] ['is', 'about', 'N', 'based', 'on', 'his', 'neck', 'veins', 'abdomen', 'normal']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['milrinone', 'and', 'admitted', 'for', 'elevated', 'pulmonary', 'artery', 'pressures', 'with', 'elevated'] ['i', 'agree', 'with', 'the', 'plan', 'that', 'he', 'will', 'need', 'a']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['in', 'the', 'icu', 'his', 'management', 'was', 'the', 'following', 'he', 'had'] ['between', 'N', 'and', 'N', 'pulmonary', 'capillary', 'right', 'pressure', 'between', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['for', 'further', 'monitoring', 'she', 'was', 'gently', 'diuresed', 'to', 'improve', 'her'] ['as', 'well', 'as', 'wedge', 'pressures', 'her', 'pulmonary', 'artery', 'catheter', 'was']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['count', 'N', 'chest', 'x', 'ray', 'chest', 'x', 'ray', 'shows', 'a'] ['endotracheal', 'tube', 'and', 'nasogastric', 'tube', 'in', 'place', 'bilateral', 'infiltrates', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['dobutamine', 'was', 'started', 'initial', 'pulmonary', 'artery', 'catheterization', 'readings', 'showed', 'a'] ['of', 'N', 'and', 'N', 'pa', 'pressures', 'between', 'N', 'and', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'a', 'right', 'heart', 'catheterization', 'done', 'on', 'N', 'showed', 'a'] ['of', 'N', 'pa', 'pressure', 'NN', 'a', 'wedge', 'pressure', 'of', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['hypotensive', 'upon', 'admission', 'with', 'blood', 'pressures', 'in', 'the', 'Ns', 'her'] ['upon', 'admission', 'was', 'N', 'she', 'was', 'hydrated', 'aggressively', 'and', 'despite']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['regurgitation', 'mild', 'aortic', 'sclerosis', 'pulmonary', 'artery', 'pressure', 'at', 'N', 'plus'] ['that', 'is', 'unchanged', 'from', 'prior', 'study', 'bnp', 'is', 'N', 'physical']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['responding', 'to', 'iv', 'fluid', 'boluses', 'and', 'still', 'oxygenating', 'well', 'his'] ['is', 'pretty', 'low', 'so', 'we', 'will', 'continue', 'aggressive', 'fluid', 'resuscitation']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['didnt', 'think', 'this', 'was', 'likely', 'given', 'the', 'pa', 'pressure', 'and'] ['difference', 'the', 'patient', 'has', 'no', 'further', 'questions', 'and', 'would', 'like']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'by', 'fick', 'N', 'repeat', 'heart', 'catheterization', 'on', 'N', 'showed'] ['of', 'N', 'pa', 'pressure', 'of', 'NN', 'and', 'wedge', 'of', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'flagyl', 'the', 'patient', 'status', 'was', 'set', 'to', 'a', 'goal'] ['between', 'N', 'the', 'patient', 'required', 'multiple', 'vasopressors', 'to', 'continue', 'to']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['as', 'has', 'been', 'the', 'case', 'blood', 'pressure', 'is', 'N'] ['is', 'N', 'oxygen', 'saturation', 'is', 'N', 'skin', 'warm', 'with', 'good']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['dr', 'NAME', 'he', 'still', 'remains', 'hypotensive', 'shocky', 'and', 'with', 'a'] ['of', 'N', 'he', 'received', 'N', 'dose', 'of', 'hespan', 'intraoperative', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['her', 'a', 'significant', 'amount', 'of', 'iv', 'fluids', 'and', 'monitor', 'on'] ['we', 'will', 'definitely', 'keep', 'it', 'at', 'N', 'acute', 'renal']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'patient', 'is', 'therapeutic', 'on', 'coumadin', 'at', 'that', 'time', 'his'] ['tonight', 'is', 'N', 'to', 'N', 'the', 'patient', 'probably', 'is', 'still']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['above', 'N', 'hypotension', 'associated', 'profound', 'intravascular', 'volume', 'depletion', 'with', 'documented'] ['in', 'the', 'range', 'of', 'N', 'associated', 'tachycardias', 'N', 'severe', 'diarrhea']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'aspiration', 'pneumonia', 'plan', 'our', 'plan', 'will', 'be', 'to', 'monitor'] ['we', 'will', 'give', 'a', 'trial', 'of', 'diuretic', 'therapy', 'empiric', 'zosyn']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['first', 'shift', 'she', 'has', 'oximizer', 'in', 'place', 'and', 'ng', 'and'] ['in', 'the', 'right', 'ij', 'vein', 'head', 'shows', 'no', 'trauma', 'eyes']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['have', 'been', 'between', 'N', 'and', 'N', 'neck', 'shows', 'an', 'estimated'] ['of', 'N', 'to', 'N', 'cm', 'lungs', 'clear', 'to', 'auscultation', 'bilaterally']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['dopamine', 'as', 'able', 'to', 'maintain', 'systolic', 'blood', 'pressure', 'N', 'maintain'] ['in', 'the', 'range', 'of', 'N', 'discussion', 'should', 'be', 'entertained']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['normally', 'i', 'would', 'consider', 'placement', 'of', 'a', 'central', 'line', 'for'] ['monitoring', 'but', 'this', 'almost', 'seems', 'too', 'aggressive', 'in', 'this', 'patient']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['cardioversion', 'currently', 'on', 'lovenox', 'plan', 'N', 'volume', 'resuscitation', 'based', 'on'] ['N', 'central', 'line', 'N', 'norepinephrine', 'for', 'blood', 'pressure', 'support', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['she', 'stabilizes', 'recommendations', 'N', 'continue', 'iv', 'normal', 'saline', 'and', 'monitoring'] ['criteria', 'set', 'for', 'fluid', 'volumes', 'depending', 'on', 'cvp', 'reading', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['he', 'received', 'two', 'units', 'of', 'packed', 'cells', 'during', 'surgery', 'a'] ['is', 'in', 'place', 'and', 'it', 'has', 'been', 'in', 'the', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['examination', 'vital', 'signs', 'her', 'blood', 'pressure', 'is', 'NN', 'pulse', 'N'] ['N', 'her', 'cvp', 'was', 'initially', 'N', 'respiratory', 'rate', 'N', 'she']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'mean', 'of', 'N', 'pulmonary', 'capillary', 'wedge', 'pressure', 'of', 'N'] ['N', 'and', 'cardiac', 'index', 'N', 'coronary', 'artery', 'disease', 'status']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['prior', 'to', 'the', 'next', 'dose', 'also', 'recommended', 'by', 'nephrology', 'isw'] ['monitoring', 'with', 'goal', 'of', 'cvp', 'of', 'N', 'castlemans']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['was', 'quite', 'symptomatic', 'for', 'him', 'he', 'has', 'a', 'double', 'lumen'] ['line', 'physical', 'examination', 'alopecia', 'large', 'bruises', 'on', 'left', 'knee']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['a', 'fena', 'renal', 'ultrasound', 'and', 'attempting', 'fluid', 'hydration', 'if', 'his'] ['is', 'low', 'N', 'infection', 'disease', 'there', 'is', 'obvious', 'concern', 'for']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['casts', 'and', 'some', 'granular', 'casts', 'a', 'fena', 'was', 'low', 'his'] ['peaked', 'at', 'eighteen', 'earlier', 'today', 'and', 'is', 'twelve', 'currently', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['with', 'pulmonary', 'artery', 'pressures', 'of', 'N', 'mm', 'of', 'mercury', 'plus'] ['physical', 'examination', 'current', 'blood', 'pressures', 'lying', 'is', 'NN', 'sitting', 'NN']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['also', 'at', 'the', 'apex', 'no', 'gallop', 'or', 'rub', 'was', 'appreciated'] ['was', 'estimated', 'about', 'N', 'cm', 'lungs', 'sounds', 'clear', 'with', 'good']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['down', 'from', 'N', 'yesterday', 'but', 'up', 'from', 'N', 'kilograms', 'preop'] ['is', 'N', 'pa', 'pressure', 'is', 'N', 'hour', 'ins']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['despite', 'fluid', 'resuscitation', 'a', 'we', 'will', 'continue', 'volume', 'resuscitate', 'his'] ['is', 'currently', 'N', 'and', 'that', 'is', 'probably', 'low', 'for', 'him']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'patients', 'altered', 'mental', 'status', 'physical', 'examination', 'blood', 'pressure', 'NN'] ['N', 'heart', 'rate', 'N', 'temperature', 'N', 'on', 'non', 'rebreather', 'mask']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'the', 'pressures', 'had', 'dropped', 'considerably', 'with', 'a', 'N', 'mmhg'] ['and', 'only', 'trace', 'pulmonary', 'and', 'tricuspid', 'insufficiency', 'which', 'had', 'been']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['with', 'hjr', 'there', 'is', 'also', 'a', 'late', 'kussmauls', 'rise', 'in'] ['with', 'deep', 'inspiration', 'abdomen', 'quite', 'obese', 'but', 'soft', 'tender', 'without']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'the', 'patient', 'was', 'satting', 'comfortably', 'on', 'room', 'air', 'estimated'] ['of', 'N', 'cm', 'lungs', 'were', 'clear', 'to', 'auscultation', 'bilaterally', 'cardiac']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['sicu', 'and', 'a', 'central', 'line', 'was', 'placed', 'for', 'further', 'resuscitation'] ['was', 'used', 'for', 'monitoring', 'the', 'adequacy', 'of', 'the', 'resuscitation', 'laboratory']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['up', 'to', 'N', 'this', 'morning', 'and', 'is', 'now', 'afebrile', 'her'] ['is', 'N', 'general', 'she', 'is', 'thin', 'she', 'is', 'alert', 'she']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['in', 'N', 'of', 'urine', 'out', 'N', 'from', 'chest', 'tube', 'his'] ['has', 'been', 'twelve', 'currently', 'and', 'peaked', 'at', 'eighteen', 'general', 'he']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['has', 'generally', 'been', 'stable', 'blood', 'pressure', 'is', 'not', 'much', 'different'] ['has', 'been', 'monitored', 'closely', 'initially', 'it', 'was', 'less', 'than', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'more', 'hemodynamically', 'stable', 'N', 'hypotension', 'need', 'central', 'line', 'and'] ['monitoring', 'will', 'push', 'iv', 'fluids', 'and', 'colloid', 'if', 'cvp', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['between', 'N', 'and', 'N', 'systolic', 'temperature', 'N', 'pa', 'pressure', 'NN'] ['N', 'urine', 'put', 'however', 'is', 'improving', 'skin', 'benign', 'heent', 'non']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'N', 'blood', 'pressure', 'is', 'NN', 'pa', 'pressure', 'N'] ['is', 'N', 'temperature', 'is', 'N', 'cardiac', 'output', 'N', 'svr', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'unassisted', 'is', 'N', 'her', 'pulse', 'is', 'N', 'her'] ['is', 'N', 'her', 'pad', 'is', 'N', 'her', 'pawp', 'is', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['renal', 'dysfunction', 'versus', 'increased', 'ketones', 'diagnoses', 'N', 'hypotension', 'with', 'a'] ['of', 'N', 'the', 'patient', 'appears', 'to', 'be', 'volume', 'resuscitated', 'but']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['up', 'to', 'the', 'Ns', 'with', 'several', 'liters', 'of', 'iv', 'fluid'] ['was', 'placed', 'and', 'it', 'was', 'in', 'the', 'N', 'range', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['same', 'iv', 'fluids', 'strategy', 'tonight', 'monitoring', 'fluid', 'balance', 'with', 'a'] ['chemistries', 'will', 'continue', 'to', 'be', 'closely', 'monitored', 'no', 'medication', 'changes']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['she', 'was', 'given', 'about', 'N', 'liters', 'of', 'fluid', 'and', 'her'] ['has', 'come', 'up', 'but', 'she', 'still', 'remains', 'on', 'norepinephrine', 'she']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['liters', 'per', 'minute', 'at', 'a', 'fixed', 'rate', 'of', 'N', 'rpm'] ['is', 'N', 'pa', 'pressure', 'NN', 'cardiac', 'output', 'by', 'swan', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['to', 'N', 'range', 'and', 'diastolic', 'in', 'the', 'N', 'range', 'the'] ['at', 'that', 'time', 'was', 'about', 'N', 'i', 'decreased', 'the', 'milrinone']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['cm', 'above', 'the', 'clavicle', 'angle', 'which', 'gave', 'rise', 'to', 'a'] ['of', 'at', 'least', 'N', 'there', 'were', 'no', 'bruits', 'on', 'either']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'oN', 'saturation', 'is', 'N', 'on', 'N', 'l', 'nasal', 'cannula'] ['was', 'N', 'and', 'weight', 'was', 'N', 'kg', 'general', 'the', 'patient']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['as', 'N', 'and', 'is', 'currently', 'in', 'the', 'N', 'range', 'his'] ['is', 'N', 'his', 'respiratory', 'rate', 'is', 'N', 'heent', 'normocephalic', 'atraumatic']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'blood', 'pressure', 'N', 'heart', 'rate', 'in', 'the', 'Ns'] ['from', 'a', 'femoral', 'approach', 'is', 'N', 'weight', 'yesterday', 'was', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['heart', 'catheterization', 'showed', 'a', 'pulmonary', 'artery', 'pressure', 'of', 'N'] ['remained', 'between', 'N', 'and', 'N', 'and', 'cardiac', 'index', 'was', 'between']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['tricuspid', 'regurgitation', 'with', 'pulmonary', 'hypertension', 'with', 'a', 'pressure', 'of', 'N+'] ['the', 'trileaflet', 'aortic', 'valve', 'was', 'noted', 'to', 'have', 'aortic', 'valvular']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['placed', 'at', 'this', 'moment', 'by', 'anesthesia', 'we', 'will', 'check', 'her'] ['it', 'is', 'difficult', 'with', 'her', 'liver', 'failure', 'to', 'estimate', 'her']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['aggressive', 'iv', 'fluid', 'replacement', 'N', 'i', 'would', 'aim', 'for', 'a'] ['of', 'around', 'N', 'cvp', 'currently', 'is', 'N', 'after', 'three', 'liters']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'do', 'not', 'resuscitate', 'recommendations', 'N', 'volume', 'based', 'on', 'his'] ['we', 'expect', 'a', 'high', 'cvp', 'given', 'his', 'pulmonary', 'hypertension', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'more', 'hemodynamically', 'stable', 'N', 'hypotension', 'need', 'central', 'line', 'and'] ['monitoring', 'will', 'push', 'iv', 'fluids', 'and', 'colloid', 'if', 'cvp', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['bowel', 'obstruction', 'possible', 'scar', 'tissue', 'formation', 'for', 'chf', 'symptoms', 'obtain'] ['pressures', 'provide', 'lasix', 'monitor', 'fluid', 'balance', 'with', 'the', 'i', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['please', 'see', 'official', 'report', 'pa', 'pressures', 'were', 'NN', 'with', 'a'] ['of', 'N', 'and', 'a', 'wedge', 'of', 'N', 'history', 'of', 'present']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['in', 'place', 'recommendations', 'N', 'continue', 'iv', 'saline', 'will', 'push', 'his'] ['N', 'checking', 'urine', 'indices', 'including', 'fractional', 'excretion', 'of', 'sodium', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['extremities', 'no', 'significant', 'redness', 'or', 'significant', 'tenderness', 'around', 'her', 'left'] ['site', 'no', 'significant', 'edema', 'pulses', 'are', 'relatively', 'intact', 'no', 'peripheral']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['mri', 'being', 'attempted', 'complicated', 'by', 'anxiety', 'issues', 'recommendations', 'N', 'check'] ['as', 'line', 'is', 'already', 'in', 'place', 'to', 'estimate', 'volume', 'status']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['it', 'is', 'sinus', 'blood', 'pressure', 'has', 'risen', 'to', 'N'] ['previously', 'N', 'is', 'now', 'N', 'skin', 'warm', 'with', 'good', 'color']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['than', 'N', 'cc', 'rvad', 'flow', 'is', 'N', 'liters', 'rate', 'N'] ['N', 'abdomen', 'soft', 'bowel', 'sounds', 'presents', 'nondistended', 'nontender', 'lower', 'extremities']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['on', 'N', 'revealed', 'a', 'pulmonary', 'artery', 'pressure', 'of', 'Nmmhg', 'plus'] ['an', 'echo', 'on', 'N', 'revealed', 'normal', 'cardiac', 'anatomy', 'with', 'low']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['short', 'amount', 'of', 'time', 'we', 'did', 'attempt', 'to', 'keep', 'her'] ['about', 'N', 'and', 'she', 'did', 'get', 'some', 'torsemide', 'early', 'on']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'his', 'pressures', 'were', 'in', 'the', 'NN', 'range', 'with', 'a'] ['of', 'N', 'the', 'flolan', 'was', 'not', 'discontinued', 'at', 'that', 'time']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['drops', 'she', 'probably', 'will', 'be', 'third', 'spacing', 'N', 'may', 'need'] ['monitoring', 'if', 'she', 'becomes', 'hypotensive', 'history', 'NAME', 'is', 'a', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['versus', 'afp', 'right', 'ventricular', 'systolic', 'pressures', 'were', 'N', 'mmhg', 'plus'] ['the', 'maximum', 'gradient', 'across', 'the', 'pulmonary', 'valve', 'was', 'N', 'mmhg']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['initial', 'reading', 'shows', 'a', 'wedge', 'of', 'N', 'to', 'N', 'and'] ['of', 'N', 'to', 'N', 'this', 'was', 'after', 'almost', 'N', 'liters']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['dysfunction', 'no', 'mitral', 'regurgitation', 'right', 'ventricular', 'systolic', 'pressure', 'N', 'plus'] ['N', 'tricuspid', 'regurgitation', 'hospital', 'course', 'N', 'cardiac', 'shortly', 'after', 'admission']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['family', 'a', 'will', 'hold', 'diuretics', 'for', 'now', 'b', 'if', 'the'] ['drops', 'a', 'little', 'more', 'than', 'will', 'give', 'some', 'albumin', 'c']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['vital', 'signs', 'pulse', 'is', 'N', 'and', 'regular', 'blood', 'pressure', 'NN'] ['is', 'elevated', 'at', 'N', 'heent', 'normocephalic', 'atraumatic', 'lungs', 'clear', 'to']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['he', 'had', 'elevation', 'of', 'pulmonary', 'artery', 'pressures', 'with', 'rise', 'in'] ['at', 'the', 'time', 'but', 'was', 'awake', 'yesterday', 'and', 'required', 'use']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'monitor', 'the', 'patients', 'cvps', 'qN', 'h', 'if', 'the', 'patients'] ['drops', 'below', 'N', 'we', 'will', 'bolus', 'her', 'fluids', 'and', 'we']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['study', 'was', 'unremarkable', 'and', 'relatively', 'unchanged', 'from', 'a', 'prior', 'echocardiogram'] ['was', 'measured', 'at', 'N', 'mr', 'NAME', 'was', 'then', 'brought', 'to']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['line', 'will', 'be', 'placed', 'for', 'access', 'and', 'to', 'monitor', 'a'] ['N', 'protonix', 'N', 'mg', 'iv', 'q', 'N', 'hours', 'will', 'be']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'N', 'she', 'is', 'afebrile', 'pulse', 'is', 'N', 'spN', 'N'] ['N', 'blood', 'pressure', 'N', 'general', 'appearance', 'she', 'is', 'an']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['temperature', 'N', 'degrees', 'pulse', 'N', 'blood', 'pressure', 'NN', 'respirations', 'N'] ['is', 'N', 'weight', 'is', 'N', 'kilograms', 'heent', 'no', 'evidence', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'overnight', 'increasing', 'to', 'N', 'while', 'on', 'a', 'weaning', 'trial'] ['is', 'N', 'heent', 'no', 'evidence', 'of', 'head', 'trauma', 'pupils', 'are']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['liters', 'per', 'minute', 'lvad', 'flow', 'is', 'N', 'liters', 'per', 'minute'] ['N', 'his', 'drips', 'include', 'amiodarone', 'and', 'heparin', 'respiratory', 'system', 'bilateral']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['anesthia', 'also', 'dopamine', 'changed', 'to', 'levophed', 'after', 'central', 'line', 'placed'] ['N', 'svoN', 'monitor', 'placed', 'mixed', 'venous', 'sat', 'N', 'on', 'fioN']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['estimated', 'pulmonary', 'artery', 'pressure', 'of', 'N', 'mm', 'of', 'mercury', 'plus'] ['the', 'patient', 'was', 'noted', 'in', 'right', 'heart', 'because', 'of', 'findings']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['index', 'is', 'N', 'drips', 'milrinone', 'N', 'he', 'is', 'off', 'epinephrine'] ['N', 'pa', 'pressure', 'is', 'N', 'x', 'N', 'respirations', 'bilateral', 'breath']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['adenopathy', 'chest', 'there', 'are', 'clear', 'bilateral', 'breath', 'sounds', 'heart', 'the'] ['is', 'about', 'N', 'she', 'has', 'a', 'regular', 'rate', 'and', 'rhythm']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['recommendations', 'N', 'insulin', 'iv', 'per', 'dka', 'protocol', 'N', 'will', 'monitor'] ['and', 'continue', 'volume', 'replacement', 'with', 'normal', 'saline', 'she', 'may', 'need']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['addition', 'to', 'orotracheal', 'intubation', 'arterial', 'line', 'placement', 'and', 'left', 'femoral'] ['line', 'placement', 'he', 'was', 'volume', 'resuscitated', 'aggressively', 'in', 'the', 'intensive']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['regular', 'temperature', 'N', 'respiratory', 'rate', 'N', 'pa', 'pressure', 'is', 'NN'] ['N', 'heent', 'normocephalic', 'atraumatic', 'without', 'xanthoma', 'no', 'arcus', 'senilis', 'moist']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['a', 'central', 'venous', 'catheter', 'for', 'iv', 'access', 'and', 'monitoring', 'of'] ['blood', 'pressure', 'support', 'would', 'maximize', 'dopamine', 'at', 'N', 'mcg', 'kg']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['include', 'nesiritide', 'milrinone', 'amiodarone', 'p', 'pressures', 'are', 'N', 'x', 'N'] ['is', 'N', 'his', 'cardiac', 'index', 'is', 'N', 'respirations', 'from', 'bilateral']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['recommendation', 'N', 'will', 'continue', 'to', 'push', 'iv', 'saline', 'monitoring', 'her'] ['and', 'back', 'off', 'on', 'pressors', 'if', 'possible', 'N', 'vp', 'support']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['murmur', 'which', 'revealed', 'N+', 'tricuspid', 'regurgitation', 'with', 'rvsp', 'N', '+'] ['the', 'murmur', 'resolved', 'on', 'day', 'two', 'of', 'life', 'and', 'was']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['cardiac', 'index', 'N', 'svr', 'N', 'pulmonary', 'artery', 'pressure', 'is', 'NN'] ['N', 'pulmonary', 'capillary', 'wedge', 'pressure', 'N', 'neurologic', 'the', 'patient', 'does']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['improved', 'since', 'yesterday', 'by', 'my', 'reading', 'a', 'pacer', 'and', 'a'] ['are', 'in', 'echocardiogram', 'echocardiogram', 'done', 'two', 'days', 'ago', 'shows', 'an']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'NN', 'heart', 'rate', 'N', 'and', 'regular', 'oN', 'saturation', 'N'] ['N', 'temperature', 'N', 'respirations', 'N', 'general', 'appearance', 'obese', 'middle', 'aged']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['volume', 'replacement', 'will', 'need', 'a', 'central', 'venous', 'line', 'to', 'monitor'] ['N', 'correct', 'coagulopathy', 'inr', 'is', 'elevated', 'will', 'give', 'fresh', 'frozen']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['a', 'cardiac', 'output', 'of', 'N', 'cardiac', 'index', 'N', 'svr', 'N'] ['N', 'pawp', 'N', 'vital', 'signs', 'blood', 'pressure', 'NN']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['output', 'of', 'N', 'a', 'pa', 'pressure', 'of', 'NN', 'with', 'a'] ['of', 'N', 'and', 'a', 'pulmonary', 'artery', 'wedge', 'mean', 'of', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['sN', 'or', 'murmur', 'there', 'is', 'no', 'jvd', 'or', 'hjr', 'his'] ['is', 'currently', 'N', 'pulses', 'were', 'all', 'intact', 'even', 'peripherally', 'abdomen']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['lungs', 'show', 'bibasilar', 'rales', 'but', 'no', 'wheezes', 'cardiac', 'exam', 'her'] ['is', 'about', 'N', 'normal', 'sN', 'sN', 'no', 'murmur', 'abdomen', 'obese']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['temperature', 'earlier', 'today', 'N', 'respiratory', 'rate', 'N', 'oxygen', 'saturation', 'N'] ['N', 'he', 'is', 'currently', 'on', 'dopamine', 'and', 'levophed', 'he', 'has']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['was', 'NN', 'with', 'pulmonary', 'capillary', 'wedge', 'pressure', 'of', 'N', 'patients'] ['was', 'N', 'on', 'N', 'patient', 'underwent', 'a', 'transthoracic']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['would', 'suggest', 'some', 'edema', 'in', 'the', 'face', 'neck', 'supple', 'nontender'] ['is', 'N', 'cm', 'lungs', 'she', 'has', 'coarse', 'crackles', 'bilaterally', 'as']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['ivc', 'with', 'lack', 'of', 'normal', 'respiratory', 'variation', 'suggesting', 'significantly', 'elevated'] ['and', 'marked', 'right', 'sided', 'pressures', 'with', 'pulmonary', 'artery', 'pressure', 'approaching']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['saline', 'to', 'expand', 'volume', 'and', 'subsequently', 'iv', 'sodium', 'bicarbonate', 'monitoring'] ['N', 'he', 'got', 'an', 'initial', 'N', 'meq', 'of', 'nahcoN', 'in']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['normal', 'systolic', 'function', 'normal', 'anatomy', 'increased', 'pulmonary', 'pressures', 'NN', 'plus'] ['given', 'the', 'echo', 'findings', 'a', 'cardiology', 'consultation', 'was', 'obtained', 'per']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['intravascular', 'volume', 'that', 'seemed', 'to', 'improve', 'with', 'fluid', 'resuscitation', 'a'] ['was', 'used', 'for', 'monitoring', 'volume', 'status', 'and', 'eventually', 'she', 'stabilized']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['him', 'two', 'units', 'of', 'packed', 'cells', 'this', 'will', 'increase', 'his'] ['and', 'perhaps', 'the', 'dopamine', 'can', 'be', 'weaned', 'off', 'N', 'peritonitis']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['stroke', 'volumes', 'greater', 'than', 'N', 'drips', 'epinephrine', 'N', 'dopamine', 'N'] ['N', 'pa', 'pressure', 'N', 'x', 'N', 'respirations', 'and', 'bilateral', 'breath']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['currently', 'has', 'systolic', 'pressures', 'in', 'the', 'mid', 'Ns', 'and', 'a'] ['of', 'N', 'to', 'N', 'the', 'patient', 'states', 'that', 'the', 'surgery']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rvad', 'flow', 'is', 'N', 'at', 'a', 'fixed', 'rate', 'of', 'N'] ['N', 'respiratory', 'bilateral', 'breath', 'sounds', 'increased', 'right', 'basilar', 'crepitations', 'oxygen']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['sinus', 'tachycardia', 'temperature', 'N', 'celsius', 'saturations', 'N', 'on', 'N', 'fioN'] ['N', 'head', 'and', 'neck', 'exam', 'no', 'supraclavicular', 'adenopathy', 'chest', 'reveals']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'normal', 'saline', 'cooling', 'blanket', 'was', 'applied', 'he', 'had', 'his'] ['measured', 'at', 'N', 'and', 'subsequently', 'admission', 'was', 'requested', 'the', 'patient']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['with', 'right', 'ventricular', 'systolic', 'pressures', 'of', 'N', 'mm', 'hg', 'plus'] ['and', 'there', 'was', 'no', 'evidence', 'of', 'pericardial', 'effusion', 'she', 'was']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['sepsis', 'though', 'must', 'consider', 'a', 'primary', 'myocardial', 'injury', 'plan', 'N'] ['is', 'in', 'we', 'will', 'direct', 'his', 'fluids', 'based', 'on', 'cvp']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['maximum', 'of', 'N', 'and', 'then', 'continue', 'with', 'levophed', 'N', 'using'] ['as', 'volume', 'monitor', 'which', 'i', 'think', 'is', 'adequate', 'at', 'this']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['urine', 'output', 'and', 'hypotension', 'vigorous', 'volume', 'replacement', 'found', 'and', 'a'] ['line', 'was', 'placed', 'because', 'of', 'high', 'pressures', 'diuresis', 'found', 'urine']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['recommendations', 'N', 'off', 'hespan'] ['now', 'N', 'iv', 'lasix', 'prn', 'she', 'responded', 'to', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['at', 'N', 'fioN', 'weight', 'N', 'kilograms', 'up', 'from', 'N', 'yesterday'] ['anywhere', 'from', 'N', 'currently', 'it', 'is', 'N', 'overnight', 'she', 'had']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rebounded', 'to', 'systolic', 'pressures', 'in', 'the', 'Ns', 'to', 'Ns', 'his'] ['reached', 'a', 'nadir', 'of', 'N', 'a', 'maximum', 'of', 'N', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['around', 'NN', 'heart', 'rate', 'in', 'the', 'Ns', 'oxygen', 'saturation', 'N'] ['is', 'N', 'weight', 'N', 'kg', 'neurologic', 'she', 'is', 'sedated', 'does']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['clear', 'the', 'neck', 'is', 'supple', 'no', 'lymphadenopathy', 'no', 'masses', 'the'] ['is', 'difficult', 'to', 'assess', 'because', 'his', 'neck', 'is', 'somewhat', 'thick']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['hemorrhage', 'N', 'hemorrhagic', 'shock', 'N', 'dic', 'recommendations', 'transfuse', 'prn', 'monitor'] ['fluids', 'per', 'cvp', 'and', 'clinical', 'status', 'currently', 'getting', 'normal', 'saline']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'time', 'of', 'discontinuing', 'the', 'swan', 'read', 'NN', 'with', 'the'] ['of', 'N', 'the', 'report', 'of', 'his', 'cardiac', 'mri', 'is', 'pending']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'swan', 'ganz', 'catheters', 'pa', 'pressures', 'were', 'NN', 'with', 'a'] ['of', 'N', 'and', 'a', 'cardiac', 'index', 'of', 'N', 'these', 'numbers']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['a', 'map', 'greater', 'than', 'N', 'he', 'will', 'need', 'to', 'have'] ['checked', 'later', 'and', 'he', 'may', 'need', 'fluid', 'tap', 'which', 'could']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['sedated', 'and', 'nonresponsive', 'pulse', 'is', 'N', 'oN', 'sat', 'is', 'N'] ['is', 'N', 'vital', 'signs', 'blood', 'pressure', 'NN', 'initially', 'driving', 'down']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['albumin', 'N', 'check', 'a', 'fractional', 'excretion', 'of', 'sodium', 'N', 'monitor'] ['with', 'the', 'current', 'readings', 'at', 'N', 'would', 'look', 'at', 'readings']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['patients', 'pulmonary', 'artery', 'diastolic', 'pressure', 'was', 'equal', 'to', 'N', 'plus'] ['the', 'patients', 'mean', 'pulmonary', 'artery', 'pressure', 'was', 'N', 'plus', 'cvp']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'and', 'sinus', 'tachycardia', 'blood', 'pressure', 'NN', 'respiratory', 'rate', 'N'] ['N', 'her', 'blood', 'sugar', 'was', 'initially', 'N', 'but', 'is', 'now']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['complexes', 'that', 'to', 'my', 'view', 'are', 'likely', 'aberrant', 'beats', 'the'] ['initially', 'placed', 'showed', 'a', 'cvp', 'of', 'N', 'suggesting', 'that', 'fluid']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['some', 'right', 'ventricular', 'dilatation', 'severe', 'tricuspid', 'regurgitation', 'and', 'very', 'high'] ['pressures', 'however', 'she', 'was', 'on', 'some', 'anticoagulation', 'and', 'her', 'clinical']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['output', 'N', 'cardiac', 'index', 'N', 'svr', 'N', 'pa', 'pressure', 'NN'] ['N', 'the', 'patient', 'is', 'N', 'saturated', 'and', 'temperature', 'is', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['at', 'N', 'and', 'N', 'an', 'hour', 'it', 'remained', 'cherry', 'red'] ['was', 'within', 'normal', 'limits', 'the', 'patient', 'was', 'weaned', 'off', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'NN', 'heart', 'rate', 'in', 'the', 'Ns', 'respiratory', 'rate', 'N'] ['is', 'N', 'heent', 'she', 'has', 'both', 'feeding', 'tube', 'and', 'ng']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['seven', 'hours', 'this', 'corresponds', 'with', 'a', 'slow', 'decline', 'in', 'his'] ['which', 'was', 'N', 'at', 'midnight', 'and', 'is', 'more', 'currently', 'in']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['oriented', 'from', 'a', 'cardiac', 'standpoint', 'he', 'does', 'have', 'some', 'elevated'] ['initially', 'it', 'was', 'at', 'N', 'at', 'N', 'hours', 'postoperatively', 'but']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['continue', 'aggressive', 'hydration', 'will', 'increase', 'his', 'iv', 'rate', 'N', 'monitor'] ['if', 'possible', 'with', 'the', 'port', 'a', 'cath', 'he', 'has', 'present']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['platelet', 'plus', 'rbcs', 'urine', 'output', 'N', 'ml', 'over', 'N', 'hours'] ['N', 'to', 'N', 'to', 'N', 'to', 'N', 'to', 'N', 'to']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['showed', 'normal', 'wedge', 'pressures', 'normal', 'pulmonary', 'artery', 'pressures', 'and', 'normal'] ['she', 'had', 'also', 'a', 'bnp', 'on', 'this', 'admission', 'that', 'was']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['gram', 'N', 'right', 'heart', 'catheterization', 'with', 'hemodynamic', 'evaluation', 'results', 'N'] ['N', 'pa', 'pressures', 'N', 'pulmonary', 'artery', 'wedge']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['month', 'ago', 'under', 'similar', 'circumstances', 'recommendations', 'N', 'iv', 'fluid', 'watching'] ['closely', 'N', 'dopamine', 'and', 'subsequent', 'norepinephrine', 'if', 'needed', 'to', 'support']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rate', 'in', 'the', 'Ns', 'pulmonary', 'artery', 'pressures', 'are', 'N'] ['is', 'N', 'most', 'recent', 'pulmonary', 'capillary', 'wedge', 'pressure', 'is', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'of', 'NN', 'with', 'a', 'wedge', 'of', 'N', 'and', 'a'] ['of', 'N', 'the', 'patients', 'cardiac', 'index', 'was', 'N', 'the', 'patient']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['sodium', 'bicarbonate', 'replacement', 'N', 'intravenous', 'fluids', 'for', 'volume', 'replacement', 'monitoring'] ['N', 'checking', 'fractional', 'excretion', 'of', 'sodium', 'though', 'it', 'looks', 'like']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'with', 'a', 'left', 'shift', 'he', 'is', 'somewhat', 'dehydrated', 'his'] ['is', 'a', 'little', 'bit', 'low', 'his', 'blood', 'pressure', 'is', 'holding']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['hetastarch', 'and', 'we', 'will', 'wean', 'the', 'levophed', 'as', 'possible', 'her'] ['is', 'N', 'and', 'probably', 'needs', 'to', 'be', 'more', 'like', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['wedge', 'pressure', 'decreased', 'to', 'N', 'and', 'then', 'to', 'N', 'her'] ['decreased', 'from', 'N', 'to', 'N', 'and', 'her', 'cardiac', 'index', 'improved']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['aortic', 'valve', 'with', 'N', 'mmhg', 'pressure', 'a', 'right', 'heart', 'catheter'] ['of', 'N', 'pa', 'pressure', 'N', 'by', 'N', 'with', 'mean', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['objective', 'vital', 'signs', 'blood', 'pressure', 'N', 'systolic', 'in', 'arterial', 'line'] ['N', 'temperature', 'N', 'rectally', 'general', 'he', 'alert', 'oriented', 'x', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['remained', 'favorable', 'during', 'icu', 'monitoring', 'with', 'cardiac', 'output', 'of', 'N'] ['of', 'N', 'pulmonary', 'artery', 'pressures', 'of', 'NN', 'with', 'pulmonary', 'vascular']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['temperature', 'N', 'oN', 'saturations', 'N', 'on', 'room', 'air', 'his', 'initial'] ['was', 'N', 'general', 'the', 'patient', 'is', 'a', 'little', 'bit', 'uncomfortable']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['are', 'noted', 'blood', 'pressure', 'is', 'NN', 'respirations', 'are', 'about', 'N'] ['is', 'N', 'skin', 'warm', 'perfusion', 'throughout', 'seems', 'satisfactory', 'heent', 'unremarkable']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'saturation', 'N', 'percent', 'on', 'imv', 'eight', 'breaths', 'per', 'minute'] ['is', 'N', 'the', 'pupils', 'are', 'equal', 'and', 'reactive', 'to', 'light']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['temperature', 'is', 'N', 'respiratory', 'rate', 'is', 'N', 'spoN', 'is', 'N'] ['is', 'N', 'pulmonary', 'pressure', 'NN', 'pulmonary', 'capillary', 'wedge', 'pressure', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['fluid', 'in', 'the', 'form', 'of', 'crystalloid', 'normal', 'saline', 'to', 'maintain'] ['greater', 'than', 'or', 'equal', 'to', 'N', 'we', 'will', 'use', 'colloid']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['function', 'N', 'leukocytosis', 'possible', 'sepsis', 'recommendations', 'continue', 'normal', 'saline', 'monitoring'] ['and', 'clinical', 'status', 'check', 'urine', 'sodium', 'creatinine', 'and', 'urine', 'osmolality']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['his', 'original'] ['was', 'N', 'he', 'received', 'aggressive', 'fluids', 'half', 'normal', 'saline', 'with']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['severe', 'right', 'ventricular', 'failure', 'as', 'evidenced', 'by', 'her', 'markedly', 'elevated'] ['on', 'N', 'as', 'well', 'as', 'her', 'relatively', 'low', 'mean', 'pulmonary']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['been', 'in', 'the', 'Ns', 'to', 'Ns', 'Ns', 'range', 'a'] ['was', 'as', 'high', 'as', 'N', 'to', 'N', 'but', 'over', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'will', 'give', 'more', 'sodium', 'bicarbonate', 'this', 'morning', 'N', 'monitor'] ['basic', 'iv', 'is', 'normal', 'saline', 'and', 'volume', 'pending', 'cvp', 'readings']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['saline', 'bolus', 'and', 'N', 'units', 'of', 'packed', 'cells', 'since', 'her'] ['is', 'low', 'we', 'are', 'going', 'to', 'give', 'her', 'colloid', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pulse', 'N', 'temperature', 'maximum', 'today', 'is', 'N', 'respiratory', 'rate', 'N'] ['N', 'she', 'is', 'on', 'dopamine', 'and', 'amiodarone', 'iv', 'the', 'output']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['peep', 'her', 'cardiac', 'output', 'is', 'N', 'svr', 'N', 'pad', 'N'] ['N', 'she', 'is', 'on', 'dopamine', 'neo', 'synephrine', 'and', 'insulin', 'drip']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['to', 'be', 'drawn', 'N', 'we', 'will', 'document', 'urine', 'sodium', 'N'] ['reading', 'might', 'be', 'beneficial', 'in', 'this', 'setting', 'however', 'i', 'think']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rhythm', 'normal', 'sN', 'sN', 'no', 'murmur', 'rub', 'or', 'gallop', 'the'] ['is', 'approximately', 'N', 'abdomen', 'obese', 'normal', 'bowel', 'sounds', 'there', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['ventilator', 'with', 'fioN', 'of', 'N', 'her', 'oxygen', 'saturation', 'is', 'N'] ['with', 'generous', 'crystalloid', 'intake', 'has', 'been', 'in', 'the', 'range', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['i', 'had', 'good', 'return', 'in', 'all', 'three', 'ports', 'and', 'the'] ['was', 'approximately', 'N', 'to', 'N', 'mmhg', 'assessment', 'plan', 'N', 'hypovolemic']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['x', 'ray', 'in', 'the', 'morning', 'N', 'hypotension', 'we', 'will', 'monitor'] ['and', 'volume', 'expander', 'we', 'will', 'change', 'iv', 'to', 'normal', 'saline']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['but', 'worsening', 'peripheral', 'edema', 'and', 'inability', 'to', 'further', 'raise', 'the'] ['the', 'patient', 'also', 'remains', 'on', 'pressors', 'this', 'is', 'a', 'patient']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'pcoN', 'of', 'N', 'poN', 'N', 'derived', 'bicarbonate', 'of', 'N'] ['is', 'N', 'heent', 'alopecia', 'otherwise', 'normocephalic', 'atraumatic', 'the', 'eyes', 'are']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['x', 'ray', 'was', 'done', 'which', 'showed', 'the', 'tip', 'of', 'his'] ['line', 'in', 'his', 'superior', 'vena', 'cava', 'in', 'an', 'acceptable', 'location']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['contractures', 'swan', 'ganz', 'remains', 'in', 'place', 'with', 'a', 'pa', 'pressure'] ['of', 'N', 'pa', 'pressure', 'N', 'laboratory', 'results', 'blood', 'gas']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['x', 'ray', 'is', 'the', 'same', 'as', 'before', 'endotracheal', 'tube', 'and'] ['catheter', 'in', 'good', 'position', 'left', 'upper', 'lobe', 'infiltrate', 'predominates', 'ekg']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'N', 'neck', 'neck', 'is', 'supple', 'and', 'nontender', 'with', 'elevated'] ['lungs', 'diminished', 'breath', 'sounds', 'bilaterally', 'heart', 'normal', 'sN', 'sN', 'regular']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['depress', 'lv', 'function', 'than', 'propofol', 'N', 'watch', 'iv', 'fluids', 'and'] ['and', 'would', 'avoid', 'overhydration', 'once', 'the', 'cvp', 'gets', 'higher', 'than']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['vessel', 'and', 'non', 'dominant', 'right', 'heart', 'catheter', 'hemodynamics', 'shows', 'normal'] ['and', 'mildly', 'elevated', 'pa', 'pressures', 'her', 'cardiac', 'output', 'is', 'low']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'to', 'N', 'in', 'atrial', 'fibrillation', 'rhythm', 'blood', 'pressure', 'NN'] ['is', 'N', 'to', 'N', 'range', 'the', 'oxygen', 'saturation', 'is', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['defer', 'the', 'use', 'of', 'xigris', 'N', 'aggressive', 'fluid', 'replacement', 'using'] ['monitor', 'and', 'normal', 'saline', 'as', 'basic', 'iv', 'N', 'insulin', 'drip']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'cardiac', 'index', 'N', 'his', 'pa', 'pressures', 'are', 'NN', 'with'] ['of', 'N', 'general', 'obese', 'man', 'who', 'is', 'sedated', 'heent', 'no']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['intact', 'no', 'facial', 'skin', 'rashes', 'neck', 'supple', 'and', 'nontender', 'his'] ['line', 'has', 'presumably', 'been', 'in', 'place', 'for', 'some', 'time', 'slight']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['very', 'hypotensive', 'with', 'systolic', 'blood', 'pressure', 'in', 'the', 'Ns', 'his'] ['through', 'the', 'picc', 'line', 'was', 'N', 'and', 'it', 'was', 'felt']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'N', 'blood', 'pressure', 'NN', 'pulse', 'N', 'respiratory', 'rate', 'N'] ['is', 'N', 'skin', 'negative', 'heent', 'head', 'shows', 'no', 'trauma', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'slightly', 'up', 'her', 'urinalysis', 'shows', 'concentrated', 'urine', 'and', 'her'] ['is', 'kind', 'of', 'low', 'suggesting', 'prerenal', 'etiology', 'chest', 'x', 'ray']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['management', 'needs', 'to', 'be', 'watched', 'closely', 'with', 'daily', 'weights', 'connect'] ['monitor', 'to', 'watch', 'closely', 'the', 'cvp', 'pressures', 'thank', 'you', 'for']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['basis', 'of', 'her', 'rhythm', 'recommendations', 'N', 'central', 'line', 'placement', 'N'] ['monitoring', 'N', 'iv', 'fluids', 'N', 'nonsteroidals', 'as', 'previously', 'ordered', 'paying']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['neck', 'supple', 'full', 'range', 'of', 'motion', 'no', 'lymphadenopathy', 'or', 'thyromegaly'] ['appears', 'to', 'be', 'somewhat', 'elevated', 'at', 'approximately', 'N', 'lungs', 'it']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['system', 'is', 'N', 'his', 'pulmonary', 'artery', 'pressures', 'are', 'N'] ['is', 'N', 'urine', 'output', 'has', 'been', 'approximately', 'N', 'cc', 'for']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['has', 'had', 'no', 'fever', 'his', 'respiratory', 'rate', 'is', 'N', 'his'] ['is', 'N', 'he', 'is', 'getting', 'tpn', 'at', 'N', 'cc', 'hr']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['flow', 'is', 'N', 'liters', 'at', 'a', 'fixed', 'rate', 'of', 'N'] ['N', 'pulmonary', 'artery', 'pressure', 'is', 'N', 'cardiac', 'index', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['as', 'N', 'respirations', 'N', 'pulse', 'N', 'blood', 'pressure', 'Ns', 'Ns'] ['is', 'N', 'weight', 'is', 'N', 'kilograms', 'skin', 'no', 'rash', 'or']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['engaged', 'in', 'conversation', 'iv', 'lines', 'patient', 'has', 'a', 'triple', 'lumen'] ['in', 'the', 'left', 'subclavian', 'this', 'site', 'is', 'covered', 'dressings', 'dry']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['prophylaxis', 'a', 'central', 'line', 'was', 'placed', 'to', 'monitor', 'the', 'patients'] ['on', 'the', 'evening', 'of', 'N', 'the', 'patient', 'was', 'transferred', 'back']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'N', 'mean', 'of', 'N', 'wedge', 'pressure', 'of', 'N'] ['of', 'N', 'cardiac', 'output', 'of', 'N', 'index', 'of', 'N', 'pulmonary']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'ventilator', 'with', 'settings', 'previously', 'described', 'the', 'saturation', 'is', 'N'] ['N', 'pulmonary', 'capillary', 'wedge', 'pressure', 'is', 'N', 'accu', 'chek', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['increasing', 'improvement', 'in', 'her', 'urine', 'output', 'with', 'stabilization', 'of', 'her'] ['and', 'she', 'did', 'receive', 'one', 'dose', 'of', 'diuretic', 'after', 'volume']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['review', 'of', 'prior', 'investigations', 'right', 'heart', 'hemodynamics', 'from', 'N', 'reveals'] ['of', 'N', 'pulmonary', 'wedge', 'N', 'pa', 'pressure', 'NN', 'with', 'cardiac']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'N', 'her', 'saturations', 'on', 'these', 'settings', 'are', 'N', 'her'] ['is', 'N', 'her', 'peak', 'pressures', 'are', 'not', 'high', 'her', 'minute']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['good', 'right', 'ventricular', 'and', 'left', 'ventricular', 'function', 'rvfp', 'N', 'plus'] ['N', 'mmhg', 'branch', 'pulmonary', 'artery', 'gradient', 'trace', 'pulmonary', 'insufficiency', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'continue', 'bolus', 'hespan', 'and', 'n', 's', 'N', 'may', 'need'] ['monitoring', 'N', 'surgery', 'to', 'see', 'N', 'follow', 'up', 'ct', 'if']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['show', 'elevated', 'pulmonary', 'pressures', 'of', 'N', 'x', 'N', 'with', 'a'] ['of', 'N', 'in', 'view', 'of', 'this', 'we', 'recommend', 'left', 'ventricular']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['flow', 'is', 'N', 'liters', 'and', 'a', 'fixed', 'rate', 'of', 'N'] ['N', 'pa', 'pressure', 'N', 'drips', 'of', 'vasopressin', 'N', 'units']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'does', 'not', 'collapse', 'with', 'inspiration', 'consistent', 'with', 'an', 'elevated'] ['impression', 'recommendations', 'see', 'above', 'it', 'is', 'likely', 'that', 'the', 'patient']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['severe', 'rv', 'dilatation', 'rv', 'systolic', 'pressure', 'that', 'was', 'N', 'plus'] ['mild', 'to', 'moderate', 'pulmonary', 'stenosis', 'and', 'then', 'severe', 'pulmonary', 'regurgitation']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'packed', 'cells', 'and', 'wean', 'her', 'levophed', 'to', 'off', 'her'] ['is', 'acceptable', 'and', 'we', 'will', 'monitor', 'this', 'she', 'has', 'gotten']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['normal', 'saline', 'at', 'N', 'cc', 'an', 'hour', 'will', 'monitor', 'the'] ['adding', 'boluses', 'based', 'on', 'this', 'and', 'urine', 'output', 'N', 'primaxin']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['to', 'N', 'respiratory', 'rate', 'N', 'and', 'unlabored', 'pa', 'pressure', 'NN'] ['N', 'cardiac', 'output', 'N', 'svr', 'N', 'in', 'general', 'the', 'patient']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['basis', 'of', 'acidosis', 'N', 'aggressive', 'crystalloid', 'colloid', 'replacement', 'to', 'maintain'] ['greater', 'than', 'or', 'equal', 'to', 'N', 'pan', 'culture', 'including']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rpm', 'of', 'N', 'drips', 'milrinone', 'N', 'as', 'well', 'as', 'bumex'] ['is', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['femoral', 'lines', 'including', 'an', 'arterial', 'line', 'and', 'a', 'venous', 'line'] ['is', 'N', 'her', 'blood', 'sugars', 'have', 'been', 'in', 'the', 'range']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['teds', 'plus', 'pneumoboots', 'N', 'serial', 'hemoglobins', 'N', 'check', 'fibrinogen', 'N'] ['goal', 'in', 'the', 'range', 'of', 'N', 'history', 'limited', 'as', 'we']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['hypertensive', 'requiring', 'inotropes', 'and', 'pressors', 'of', 'concern', 'is', 'his', 'elevated'] ['i', 'recommend', 'that', 'if', 'we', 'cannot', 'get', 'his', 'cvp', 'down']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['autonomic', 'instability', 'a', 'central', 'line', 'was', 'placed', 'to', 'monitor', 'her'] ['and', 'it', 'is', 'low', 'we', 'will', 'volume', 'resuscitate', 'to', 'bring']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['respiratory', 'rate', 'N', 'pulse', 'N', 'blood', 'pressure', 'N', 'her'] ['is', 'N', 'oxygen', 'saturations', 'at', 'N', 'to', 'N', 'on', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['on', 'N', 'liters', 'nasal', 'cannula', 'systolic', 'blood', 'pressure', 'is', 'N'] ['is', 'N', 'accu', 'cheks', 'are', 'running', 'in', 'the', 'high', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['will', 'add', 'continuous', 'infusion', 'for', 'now', 'of', 'N', 'albumin', 'initial'] ['readings', 'are', 'quite', 'low', 'in', 'support', 'of', 'the', 'diagnosis', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['patients', 'oxygen', 'saturation', 'is', 'fine', 'on', 'room', 'air', 'neck', 'estimated'] ['is', 'N', 'to', 'N', 'cm', 'lungs', 'mild', 'bibasilar', 'crackles', 'otherwise']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['up', 'right', 'heart', 'cath', 'on', 'N', 'was', 'very', 'acceptable', 'with'] ['and', 'pulmonary', 'capillary', 'wedge', 'pressures', 'that', 'were', 'quite', 'low', 'however']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['renal', 'failure', 'will', 'also', 'continue', 'aggressive', 'fluid', 'resuscitation', 'keeping', 'her'] ['anywhere', 'from', 'N', 'to', 'N', 'will', 'start', 'xigris', 'intravenous', 'therapy']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['noted', 'ears', 'normal', 'oropharynx', 'shows', 'dry', 'mucous', 'membranes', 'neck', 'estimated'] ['N', 'cm', 'supple', 'no', 'lymphadenopathy', 'or', 'thyromegaly', 'cardiovascular', 'there', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['urine', 'output', 'and', 'labs', 'c', 'will', 'continue', 'hydration', 'to', 'keep'] ['around', 'N', 'or', 'so', 'N', 'metabolic', 'acidosis', 'the', 'patient', 'has']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['an', 'occasional', 'ectopic', 'beat', 'is', 'noted', 'blood', 'pressure', 'N'] ['N', 'oxygen', 'saturation', 'N', 'on', 'fioN', 'by', 'ventilator', 'of', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['bucking', 'of', 'the', 'vent', 'to', 'prevent', 'to', 'abdominal', 'dehiscence', 'his'] ['is', 'currently', 'N', 'he', 'did', 'make', 'a', 'N', 'cc', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['his', 'pulmonary', 'pressures', 'swan', 'ganz', 'catheter', 'had', 'been', 'discontinued', 'his'] ['was', 'measured', 'by', 'the', 'peg', 'to', 'be', 'N', 'he', 'was']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'patient', 'had', 'been', 'a', 'net', 'N', 'l', 'up', 'a'] ['at', 'this', 'point', 'was', 'in', 'the', 'low', 'Ns', 'vasopressin', 'was']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['appears', 'clear', 'neck', 'supple', 'lungs', 'clear', 'breath', 'sounds', 'bilaterally', 'cardiac'] ['is', 'about', 'N', 'normal', 'sN', 'and', 'sN', 'no', 'murmur', 'rub']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['venous', 'oxygen', 'saturation', 'is', 'N', 'pa', 'pressure', 'is', 'NN', 'and'] ['is', 'N', 'respiratory', 'there', 'are', 'bilateral', 'breath', 'sounds', 'he', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'chest', 'x', 'ray', 'satisfactory', 'postoperative', 'chest', 'x', 'ray', 'a'] ['line', 'is', 'in', 'good', 'position', 'thank', 'you', 'for', 'the', 'opportunity']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['off', 'pressors', 'rate', 'and', 'rhythm', 'seem', 'adequate', 'good', 'urine', 'output'] ['in', 'the', 'range', 'of', 'N', 'respiratory', 'failure', 'vented', 'for']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'N', 'her', 'pulmonary', 'artery', 'pressure', 'is', 'NN', 'and', 'her'] ['is', 'in', 'the', 'range', 'of', 'N', 'her', 'is', 'and', 'os']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['coverage', 'of', 'penicillin', 'allergic', 'patient', 'N', 'iv', 'crystalloid', 'N', 'continuous'] ['monitoring', 'to', 'maintain', 'cvp', 'in', 'the', 'range', 'of', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['no', 'crackles', 'vasculature', 'and', 'peripheral', 'pulses', 'are', 'normal', 'and', 'symmetric'] ['is', 'normal', 'heart', 'is', 'regular', 'rate', 'and', 'rhythm', 'without', 'murmur']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['per', 'minute', 'and', 'dopamine', 'and', 'epinephrine', 'and', 'amiodarone', 'drip', 'his'] ['was', 'elevated', 'the', 'first', 'N', 'hours', 'but', 'did', 'decrease', 'with']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['recover', 'reveal', 'approximately', 'N', 'in', 'and', 'N', 'out', 'his', 'current'] ['is', 'noted', 'to', 'be', 'approximately', 'N', 'his', 'blood', 'pressure', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['for', 'the', 'first', 'two', 'shifts', 'is', 'N', 'cc', 'ventilator', 'settings'] ['N', 'oN', 'saturation', 'N', 'she', 'is', 'on', 'N', 'fioN', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'now', 'normal', 'pulse', 'is', 'regular', 'sinus', 'rhythm', 'of', 'N'] ['is', 'about', 'N', 'oxygen', 'saturation', 'is', 'excellent', 'but', 'on', 'a']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['liters', 'minute', 'rvad', 'flow', 'is', 'N', 'liters', 'minute', 'drips', 'none'] ['N', 'pa', 'pressure', 'NN', 'cardiac', 'index', 'N', 'lower', 'extremities', 'cool']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['normal', 'pulmonary', 'artery', 'pressures', 'with', 'a', 'wedge', 'of', 'N', 'a'] ['between', 'N', 'and', 'N', 'and', 'a', 'cardiac', 'index', 'of', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['data', 'with', 'you', 'N', 'i', 'would', 'discontinue', 'her', 'right', 'jugular'] ['line', 'which', 'has', 'been', 'in', 'place', 'since', 'the', 'time', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['for', 'over', 'diuresis', 'N', 'may', 'need', 'a', 'central', 'line', 'possible'] ['or', 'even', 'swan', 'ganz', 'catheter', 'for', 'optimal', 'fluid', 'management', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['hemodynamically', 'stability', 'without', 'requirement', 'for', 'iv', 'pressor', 'medications', 'and', 'a'] ['noted', 'in', 'the', 'N', 'range', 'N', 'status', 'post', 'arrest', 'as']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['cva', 'tenderness', 'cardiac', 'shows', 'mild', 'jugular', 'venous', 'distention', 'with', 'a'] ['estimated', 'at', 'N', 'cm', 'she', 'has', 'a', 'ii', 'vi', 'systolic']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['with', 'serial', 'chemistries', 'N', 'iv', 'fluids', 'to', 'include', 'saline', 'N'] ['readings', 'N', 'proton', 'pump', 'inhibitor', 'and', 'teds', 'to', 'prevent', 'dvt']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['in', 'the', 'operating', 'room', 'she', 'was', 'at', 'the', 'icu', 'for'] ['monitoring', 'and', 'serial', 'hemoglobin', 'monitoring', 'on', 'postoperative', 'day', 'N', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['his', 'pulse', 'is', 'N', 'his', 'oN', 'sat', 'is', 'N', 'his'] ['is', 'less', 'than', 'N', 'blood', 'pressure', 'is', 'NN', 'he', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['which', 'showed', 'a', 'right', 'ventricular', 'systolic', 'pressure', 'of', 'N', 'plus'] ['and', 'a', 'pa', 'pressure', 'of', 'N', 'plus', 'cvp', 'however', 'in']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['inpatient', 'N', 'extensive', 'care', 'admission', 'for', 'sepsis', 'protocol', 'and', 'continuous'] ['monitoring', 'N', 'ct', 'of', 'the', 'chest', 'on', 'N', 'this', 'did']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['currently', 'initially', 'looks', 'volume', 'up', 'with', 'high', 'neck', 'veins', 'high'] ['of', 'N', 'and', 'a', 'chest', 'x', 'ray', 'showing', 'plump', 'pulmonary']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'liters', 'per', 'minute', 'at', 'a', 'fixed', 'rate', 'of', 'N'] ['N', 'spoN', 'N', 'respiratory', 'bilateral', 'breath', 'sounds', 'no', 'rhonchi', 'or']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['flows', 'N', 'liters', 'at', 'a', 'fixed', 'rate', 'of', 'N', 'rpm'] ['N', 'respiratory', 'simv', 'N', 'fioN', 'N', 'arterial', 'blood', 'gas', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['at', 'a', 'fixed', 'rate', 'of', 'N', 'pulse', 'index', 'is', 'N'] ['is', 'N', 'sternal', 'wound', 'appears', 'stable', 'respiratory', 'breath', 'sounds', 'both']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rate', 'N', 'heent', 'normocephalic', 'atraumatic', 'sclerae', 'is', 'nonicteric', 'neck', 'supple'] ['is', 'elevated', 'at', 'N+', 'and', 'can', 'be', 'appreciated', 'right', 'at']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['she', 'is', 'awake', 'vital', 'signs', 'blood', 'pressure', 'NN', 'pulse', 'N'] ['N', 'respiratory', 'rate', 'N', 'she', 'is', 'on', 'full', 'ventilatory', 'support']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'with', 'bundle', 'branch', 'block', 'vital', 'signs', 'blood', 'pressure', 'NN'] ['is', 'four', 'temperature', 'N', 'skin', 'benign', 'heent', 'benign', 'neck', 'relatively']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['aggressive', 'iv', 'fluid', 'replacement', 'N', 'i', 'would', 'aim', 'for', 'a'] ['of', 'around', 'N', 'cvp', 'currently', 'is', 'N', 'after', 'three', 'liters']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['echocardiogram', 'as', 'described', 'above', 'that', 'revealed', 'volume', 'depletion', 'with', 'a'] ['of', 'N', 'the', 'patient', 'had', 'fluid', 'resuscitation', 'and', 'her', 'creatinine']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'blood', 'pressure', 'N', 'heart', 'rate', 'N', 'respirations', 'N'] ['N', 'the', 'patient', 'has', 'saturations', 'of', 'N', 'she', 'is', 'being']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['respiratory', 'rate', 'of', 'N', 'and', 'her', 'saturations', 'are', 'excellent', 'her'] ['is', 'in', 'the', 'range', 'of', 'N', 'most', 'recently', 'noted', 'to']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['will', 'place', 'him', 'on', 'levophed', 'as', 'he', 'has', 'an', 'adequate'] ['and', 'appears', 'to', 'be', 'volume', 'resuscitated', 'N', 'pulmonary', 'hypertension', 'echo']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'N', 'her', 'body', 'weight', 'is', 'N', 'pounds', 'and'] ['was', 'N', 'saturation', 'was', 'N', 'with', 'N', 'liters', 'nasal', 'cannula']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['but', 'i', 'feel', 'it', 'is', 'much', 'less', 'likely', 'will', 'obtain'] ['monitoring', 'to', 'further', 'understand', 'whether', 'there', 'is', 'a', 'component', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'peep', 'of', 'N', 'sats', 'N', 'at', 'N', 'fioN', 'his'] ['is', 'N', 'general', 'he', 'is', 'intubated', 'and', 'not', 'sedated', 'he']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'NN', 'pulse', 'N', 'and', 'regular', 'temperature', 'N', 'respirations', 'N'] ['line', 'is', 'in', 'place', 'and', 'measures', 'N', 'cm', 'heent', 'there']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'vasodilatation', 'of', 'the', 'pulmonary', 'circulation', 'N', 'volume', 'overload', 'the'] ['is', 'in', 'the', 'N', 'mmhg', 'range', 'continue', 'prisma', 'and', 'unloading']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['in', 'a', 'man', 'with', 'an', 'aortic', 'valve', 'replacement', 'recommendations', 'N'] ['and', 'arterial', 'line', 'N', 'fluids', 'per', 'cvp', 'N', 'norepinephrine', 'as']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['NAME', 'which', 'shows', 'cardiac', 'index', 'of', 'N', 'pa', 'pressures', 'NN'] ['N', 'he', 'currently', 'has', 'cardiac', 'failure', 'with', 'history', 'of', 'lymphoma']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['liters', 'at', 'a', 'fixed', 'rate', 'of', 'N', 'index', 'if', 'N'] ['N', 'pa', 'pressure', 'is', 'N', 'mixed', 'venous', 'oxygen']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['now', 'afebrile', 'respiratory', 'rate', 'is', 'N', 'oN', 'saturation', 'is', 'N'] ['N', 'previously', 'now', 'N', 'his', 'urine', 'output', 'has', 'been', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['service', 'suggested', 'the', 'transjugular', 'hepatic', 'vein', 'wedge', 'pressure', 'measurement', 'and'] ['pressures', 'this', 'was', 'performed', 'and', 'a', 'liver', 'biopsy', 'is', 'planned']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'is', 'N', 'swan', 'numbers', 'show', 'p', 'a', 'NN'] ['N', 'her', 'core', 'temperature', 'is', 'N', 'skin', 'exam', 'benign', 'heent']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['ventilation', 'has', 'been', 'adequate', 'N', 'mild', 'hypotension', 'with', 'a', 'decreased'] ['and', 'decreased', 'urine', 'output', 'which', 'had', 'previously', 'responded', 'to', 'iv']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['movements', 'are', 'intact', 'oropharynx', 'with', 'dry', 'mucous', 'membranes', 'neck', 'supple'] ['is', 'approximately', 'N', 'cm', 'of', 'water', 'cardiovascular', 'normal', 'sN', 'sN']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['his', 'last', 'chemotherapy', 'was', 'N', 'that', 'was', 'cycle', 'N', 'of'] ['the', 'patient', 'had', 'been', 'having', 'problems', 'with', 'mental', 'status', 'change']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['diuresis', 'for', 'a', 'worsening', 'chest', 'x', 'ray', 'he', 'does', 'not'] ['monitor', 'at', 'this', 'time', 'the', 'patient', 'was', 'initially', 'getting', 'tpn']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'in', 'the', 'Ns', 'Ns', 'pulse', 'is', 'N', 'sinus', 'tachycardia'] ['is', 'N', 'weight', 'is', 'N', 'kilos', 'respiratory', 'rate', 'is', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['without', 'obvious', 'crackles', 'heart', 'regular', 'rate', 'and', 'rhythm', 'without', 'murmur'] ['is', 'estimated', 'at', 'N', 'or', 'N', 'cm', 'abdomen', 'bowel', 'sounds']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 's', 'she', 'is', 'intubated', 'orally', 'nasogastric', 'tube', 'is', 'in', 'place'] ['is', 'running', 'N', 'heent', 'she', 'has', 'obvious', 'alopecia', 'pupils', 'are']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['no', 'cva', 'in', 'the', 'family', 'review', 'of', 'systems', 'heent', 'negative'] ['negative', 'but', 'patient', 'does', 'not', 'exercise', 'regularly', 'to', 'check', 'herself']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['minute', 'and', 'was', 'weaned', 'off', 'quickly', 'and', 'by', 'N', 'his'] ['was', 'down', 'to', 'N', 'with', 'systolic', 'pressures', 'ranging', 'from', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['will', 'start', 'weaning', 'his', 'milrinone', 'in', 'N', 'hours', 'if', 'his'] ['remains', 'low', 'we', 'will', 'also', 'continue', 'heparin', 'drip', 'and', 'maintain']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['spN', 'is', 'unmeasurable', 'blood', 'pressure', 'NN', 'pulmonary', 'artery', 'pressure', 'NN'] ['N', 'pulmonary', 'capillary', 'wedge', 'pressure', 'N', 'general', 'he', 'is', 'extremely']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'respiratory', 'rate', 'N', 'temperature', 'N', 'weight', 'N', 'kg', 'her'] ['is', 'N', 'she', 'is', 'right', 'handed', 'oxygen', 'saturations', 'are', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['to', 'assess', 'renal', 'perfusion', 'N', 'hespan', 'x', 'N', 'given', 'her', 'current'] ['is', 'in', 'the', 'range', 'of', 'N', 'iv', 'plus', 'saline']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressures', 'NN', 'at', 'the', 'pulmonary', 'artery', 'wedge', 'of', 'N', 'raised'] ['as', 'well', 'as', 'decreased', 'cardiac', 'index', 'assessment', 'and', 'plan', 'a']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['far', 'he', 'has', 'had', 'N+', 'in', 'only', 'N', 'urine', 'out'] ['is', 'N', 'general', 'he', 'is', 'awake', 'and', 'alert', 'but', 'moaning']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['also', 'volume', 'related', 'recommendations', 'N', 'need', 'a', 'central', 'line', 'and'] ['monitoring', 'and', 'a', 'line', 'placement', 'N', 'cvp', 'N', 'saline', 'slush']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['in', 'case', 'he', 'does', 'go', 'into', 'full', 'atn', 'N', 'use'] ['as', 'guide', 'for', 'iv', 'fluids', 'see', 'orders', 'N', 'check', 'fractional']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['heart', 'catheterization', 'with', 'the', 'right', 'side', 'showing', 'right', 'pressures', 'of'] ['of', 'N', 'rv', 'of', 'NN', 'pa', 'of', 'NN', 'with', 'a']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['colloid', 'and', 'blood', 'we', 'will', 'wean', 'his', 'pressures', 'will', 'monitor'] ['svoN', 'and', 'his', 'blood', 'gases', 'he', 'is', 'on', 'antibiotics', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['of', 'kidney', 'function', 'plan', 'N', 'volume', 'support', 'based', 'on', 'his'] ['via', 'the', 'sepsis', 'protocol', 'N', 'vasopressors', 'N', 'continuous', 'monitoring', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['enlargement', 'and', 'increased', 'inferior', 'vena', 'cava', 'size', 'consistent', 'with', 'high'] ['she', 'had', 'severe', 'tricuspid', 'insufficiency', 'and', 'marked', 'right', 'ventricular', 'enlargement']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'NN', 'heart', 'rate', 'N', 'av', 'paced', 'respiratory', 'rate', 'N'] ['of', 'N', 'patient', 'is', 'currently', 'on', 'a', 'ventilator', 'at', 'dragger']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'remaining', 'the', 'Ns', 'as', 'well', 'as', 'no', 'change', 'in'] ['from', 'which', 'ranged', 'between', 'N', 'we', 'further', 'had', 'extensive', 'discussion']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['obvious', 'focal', 'motor', 'weakness', 'skin', 'no', 'petechiae', 'purpura', 'or', 'nodularity'] ['is', 'in', 'place', 'the', 'readings', 'have', 'been', 'in', 'the', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['hypertension', 'with', 'estimated', 'right', 'ventricular', 'pressures', 'of', 'N', 'mmhg', 'plus'] ['she', 'did', 'have', 'good', 'left', 'ventricular', 'and', 'right', 'ventricular', 'function']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['question', 'regarding', 'the', 'patients', 'low', 'volume', 'status', 'he', 'has', 'a'] ['that', 'is', 'currently', 'running', 'in', 'the', 'range', 'of', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['fevers', 'source', 'uncertain', 'but', 'possibly', 'from', 'a', 'right', 'internal', 'jugular'] ['line', 'which', 'has', 'been', 'in', 'place', 'for', 'several', 'days', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['face', 'mask', 'swan', 'ganz', 'catheter', 'readings', 'pa', 'pressure', 'is', 'NN'] ['N', 'input', 'N', 'output', 'N', 'weight', 'this', 'morning', 'is', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'heart', 'rate', 'in', 'the', 'Ns', 'blood', 'pressure', 'N'] ['is', 'N', 'heent', 'no', 'evidence', 'of', 'head', 'trauma', 'pupils', 'are']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['sounds', 'in', 'the', 'bases', 'heart', 'no', 'jugular', 'venous', 'distention', 'the'] ['is', 'less', 'than', 'N', 'normal', 'sN', 'and', 'sN', 'no', 'murmur']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['impaired', 'and', 'her', 'volume', 'status', 'is', 'unknown', 'will', 'place', 'a'] ['with', 'goals', 'to', 'get', 'her', 'cvp', 'N', 'renal', 'failure']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['a', 'preoperative', 'echocardiogram', 'revealed', 'N+', 'tr', 'rvsp', 'of', 'N+'] ['decreased', 'rv', 'function', 'rve', 'value', 'approximately', 'N', 'x', 'N', 'mm']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['an', 'ef', 'of', 'N', 'to', 'N', 'moderate', 'tr', 'and', 'increased'] ['the', 'patient', 'was', 'started', 'on', 'metoprolol', 'and', 'discharged', 'home', 'on']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['resuscitate', 'with', 'fluids', 'and', 'place', 'a', 'central', 'line', 'to', 'monitor'] ['N', 'renal', 'elevated', 'bun', 'and', 'creatinine', 'may', 'be', 'secondary', 'to']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['neck', 'is', 'thick', 'no', 'lymphadenopathy', 'or', 'masses', 'difficult', 'to', 'assess'] ['but', 'there', 'does', 'not', 'appear', 'to', 'be', 'jugular', 'venous', 'distention']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rate', 'N', 'to', 'currently', 'N', 'pulmonary', 'artery', 'pressure', 'is', 'NN'] ['N', 'mechanical', 'ventilator', 'settings', 'are', 'assist', 'control', 'tidal', 'volume', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['a', 'mean', 'arterial', 'pressure', 'greater', 'than', 'N', 'mmhg', 'in', 'addition'] ['is', 'placed', 'and', 'will', 'keep', 'between', 'N', 'mmhg', 'of', 'central']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['systemic', 'antibiotic', 'therapy', 'using', 'vancomycin', 'flagyl', 'and', 'ceftazidime', 'N', 'consider'] ['line', 'exchange', 'or', 'replacement', 'history', 'of', 'present', 'illness', 'this', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['vitals', 'at', 'that', 'time', 'showed', 'that', 'she', 'was', 'normotensive', 'on'] ['N', 'heart', 'rate', 'in', 'the', 'Ns', 'on', 'dopamine', 'patient', 'had']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['he', 'has', 'had', 'some', 'relief', 'from', 'the', 'arthritis', 'with', 'the'] ['chemotherapy', 'neurologic', 'no', 'headache', 'or', 'dizziness', 'physical', 'examination', 'well', 'developed']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['remarkably', 'on', 'hospital', 'day', 'N', 'his', 'rash', 'had', 'resolved', 'his'] ['had', 'normalized', 'blood', 'pressure', 'is', 'also', 'normalized', 'he', 'had', 'no']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['apparent', 'reasonably', 'normalized', 'filling', 'pressures', 'on', 'the', 'basis', 'of', 'a'] ['in', 'the', 'range', 'of', 'N', 'i', 'would', 'suggest', 'we', 'continue']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'patient', 'is', 'unable', 'to', 'report', 'physical', 'examination', 'vital', 'signs'] ['in', 'place', 'pulse', 'N', 'blood', 'pressure', 'N', 'respirations', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['irregular', 'but', 'rate', 'controlled', 'less', 'than', 'N', 'he', 'is', 'afebrile'] ['is', 'running', 'in', 'the', 'range', 'of', 'N', 'general', 'he', 'is']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['was', 'able', 'to', 'be', 'weaned', 'off', 'eventually', 'our', 'goals', 'for'] ['had', 'been', 'between', 'N', 'on', 'N', 'she', 'went', 'back', 'in']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'blood', 'pressure', 'anywhere', 'from', 'N', 'pulse', 'anywhere', 'from', 'N'] ['N', 'blood', 'sugar', 'in', 'the', 'range', 'of', 'N', 'intake', 'and']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['air', 'fingersticks', 'between', 'N', 'and', 'N', 'heent', 'notable', 'for', 'estimated'] ['of', 'about', 'N', 'centimeters', 'lungs', 'have', 'mild', 'crackles', 'bibasilar', 'cardiac']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['sounds', 'on', 'the', 'right', 'as', 'well', 'are', 'no', 'wheezing', 'cardiac'] ['about', 'N', 'normal', 'sN', 'sN', 'no', 'murmur', 'rub', 'or', 'gallop']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['morning', 'N', 'hypotension', 'we', 'will', 'volume', 'expand', 'him', 'with', 'measure'] ['and', 'use', 'pressors', 'as', 'needed']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'on', 'five', 'liters', 'there', 'is', 'no', 'current', 'weight', 'yet'] ['is', 'N', 'general', 'he', 'is', 'obtunded', 'lying', 'in', 'bed', 'flat']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['had', 'been', 'told', 'that', 'he', 'had', 'reached', 'the', 'limit', 'of'] ['that', 'he', 'could', 'receive', 'because', 'of', 'substantial', 'peripheral', 'neuropathy', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['ventilator', 'he', 'did', 'in', 'fact', 'receive', 'N', 'cc', 'of', 'fluid'] ['was', 'low', 'initial', 'chest', 'x', 'ray', 'showed', 'diffuse', 'bilateral', 'alveolar']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['flow', 'is', 'N', 'at', 'a', 'fixed', 'rate', 'of', 'N', 'rpm'] ['is', 'N', 'sternal', 'wound', 'appears', 'clean', 'and', 'dry', 'respiratory', 'bilateral']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['not', 'evaluate', 'jugular', 'venous', 'pressure', 'secondary', 'to', 'the', 'presence', 'of'] ['line', 'chest', 'auscultation', 'is', 'clear', 'anteriorly', 'no', 'rales', 'or', 'rhonchi']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pulmonary', 'artery', 'pressure', 'is', 'in', 'the', 'range', 'of', 'N'] ['is', 'in', 'the', 'range', 'of', 'N', 'her', 'is', 'and', 'os']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'mild', 'to', 'moderate', 'aortic', 'insufficiency', 'and', 'evidence', 'of', 'elevated'] ['with', 'moderate', 'pulmonary', 'hypertension', 'the', 'pa', 'systolic', 'pressure', 'is', 'estimated']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'lower', 'dentures', 'no', 'lesions', 'neck', 'supple', 'djv', 'N', 'cm'] ['lymphadenopathy', 'zero', 'thyromegaly', 'zero', 'heart', 'regular', 'rate', 'and', 'rhythm', 'sN']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['changes', 'the', 'right', 'is', 'clear', 'cardiac', 'no', 'jugular', 'venous', 'distention'] ['is', 'less', 'than', 'N', 'normal', 'sN', 'sN', 'no', 'murmur', 'abdomen']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['with', 'a', 'mean', 'pa', 'pressure', 'of', 'N', 'mmhg', 'his', 'mean'] ['was', 'about', 'N', 'mmhg', 'cardiac', 'index', 'was', 'N', 'by', 'both']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'also', 'on', 'amiodarone', 'and', 'heparin', 'pa', 'pressure', 'is', 'NN'] ['N', 'respiratory', 'bilateral', 'breath', 'sounds', 'basilar', 'scattered', 'crepitations', 'abdomen', 'bowel']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'right', 'sided', 'pressures', 'were', 'essentially', 'mildly', 'elevated', 'but', 'the'] ['quite', 'low', 'at', 'N', 'when', 'she', 'had', 'her', 'heart', 'catheterization']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['fioN', 'of', 'N', 'no', 'peep', 'yielding', 'an', 'spoN', 'of', 'N'] ['is', 'N', 'initial', 'arterial', 'blood', 'gas', 'obtained', 'before', 'these', 'ventilator']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['in', 'and', 'N', 'out', 'so', 'he', 'has', 'volume', 'deficit', 'his'] ['is', 'now', 'N', 'he', 'is', 'afebrile', 'pulse', 'N', 'blood', 'pressure']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['blood', 'pressure', 'support', 'will', 'try', 'to', 'taper', 'if', 'possible', 'N'] ['monitoring', 'a', 'swan', 'ganz', 'catheter', 'may', 'be', 'helpful', 'on', 'optimizing']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'check', 'a', 'fena', 'and', 'check', 'a', 'lactate', 'level', 'and'] ['monitoring', 'with', 'his', 'central', 'line', 'and', 'follow', 'his', 'blood', 'sugars']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['concern', 'of', 'his', 'previous', 'coronary', 'artery', 'disease', 'we', 'monitored', 'his'] ['for', 'the', 'first', 'three', 'postoperative', 'days', 'to', 'maintain', 'adequate', 'fluid']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'NN', 'pulse', 'N', 'he', 'is', 'afebrile', 'respiratory', 'rate', 'N'] ['is', 'N', 'his', 'urine', 'output', 'for', 'the', 'first', 'shift', 'was']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['we', 'will', 'need', 'to', 'consider', 'some', 'nutrition', 'support', 'N', 'monitor'] ['N', 'iv', 'fluids', 'with', 'normal', 'saline', 'N', 'neurosurgery', 'has', 'seen']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pulse', 'N', 'and', 'regular', 'respirations', 'N', 'temperature', 'N', 'pa', 'NN'] ['N', 'cardiac', 'output', 'N', 'liters', 'minute', 'cardiac', 'index', 'N', 'l']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['also', 'having', 'central', 'venous', 'pressure', 'monitoring', 'with', 'no', 'decrease', 'in'] ['noted', 'his', 'cvp', 'ranged', 'from', 'N', 'during', 'monitoring', 'the', 'renal']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pulmonary', 'hypertension', 'with', 'pa', 'pressure', 'estimates', 'of', 'N', 'mmhg', 'plus'] ['status', 'post', 'pacemaker', 'insertion', 'moderate', 'mitral', 'regurgitation', 'history', 'of', 'intermittent']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rhythm', 'normal', 'sN', 'sN', 'no', 'murmur', 'rub', 'or', 'gallop', 'his'] ['looks', 'to', 'be', 'about', 'N', 'based', 'on', 'his', 'neck', 'veins']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['artery', 'capillary', 'wedge', 'pressure', 'of', 'N', 'cardiac', 'index', 'was', 'N'] ['was', 'N', 'there', 'is', 'also', 'a', 'report', 'of', 'the', 'patient']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['is', 'on', 'the', 'ventilator', 'with', 'an', 'fioN', 'of', 'N', 'her'] ['is', 'N', 'she', 'is', 'in', 'a', 'fib', 'at', 'N', 'vital']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['ejection', 'fraction', 'approximately', 'N', 'and', 'pa', 'pressures', 'of', 'N', 'plus'] ['subsequent', 'ekgs', 'showed', 'q', 'waves', 'in', 'the', 'lateral', 'leads', 'as']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['his', 'sat', 'is', 'N', 'p', 'a', 'pressure', 'is', 'N'] ['is', 'N', 'his', 'is', 'and', 'os', 'today', 'are', 'N', 'in']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'postop', 'ventilator', 'dependent', 'N', 'history', 'of', 'hypertension', 'recommendations', 'N'] ['monitor', 'and', 'may', 'need', 'to', 'convert', 'her', 'double', 'lumen', 'to']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rate', 'and', 'rhythm', 'normal', 'sN', 'and', 'sN', 'there', 'is', 'a'] ['of', 'approximately', 'N', 'pacer', 'in', 'the', 'infraclavicular', 'region', 'abdomen', 'obese']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['mean', 'arterial', 'pressure', 'greater', 'than', 'N', 'based', 'on', 'his', 'low'] ['and', 'his', 'recovery', 'of', 'the', 'other', 'organ', 'systems', 'our', 'plan']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'liters', 'minute', 'svr', 'N', 'pulmonary', 'capillary', 'wedge', 'pressure', 'N'] ['N', 'heent', 'no', 'evidence', 'of', 'trauma', 'he', 'has', 'a', 'nasogastric']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['temperature', 'is', 'N', 'pulse', 'N', 'blood', 'pressure', 'NN', 'respirations', 'N'] ['is', 'N', 'heent', 'no', 'evidence', 'of', 'head', 'trauma', 'pupils', 'are']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['acute', 'tubular', 'necrosis', 'would', 'eliminate', 'potassium', 'containing', 'fluids', 'N', 'with'] ['we', 'will', 'monitor', 'and', 'use', 'as', 'guide', 'for', 'fluid', 'replacement']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['cardiovascular', 'cardiac', 'index', 'N', 'on', 'dobutamine', 'with', 'an', 'intraaortic', 'balloon'] ['N', 'respiratory', 'bilateral', 'breath', 'sounds', 'basal', 'crepitations', 'nasal', 'cannula', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['it', 'would', 'be', 'best', 'to', 'continue', 'volume', 'resuscitation', 'following', 'the'] ['check', 'hemoglobins', 'troponins', 'and', 'ekg', 'the', 'patient', 'remained', 'in', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pressure', 'is', 'N', 'his', 'oxygen', 'saturation', 'is', 'N', 'his'] ['is', 'N', 'the', 'total', 'urine', 'output', 'was', 'N', 'chest', 'tube']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['below', 'N', 'will', 'place', 'a', 'triple', 'lumen', 'catheter', 'for', 'close'] ['monitoring', 'surgery', 'assistance', 'appreciated', 'in', 'this', 'case', 'N', 'history', 'of']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rales', 'or', 'wheezes', 'cardiac', 'examination', 'no', 'jugular', 'venous', 'distention', 'the'] ['is', 'less', 'than', 'N', 'normal', 's', 'N', 'and', 's', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['follicular', 'non', 'hodgkin', 'lymphoma', 'mr', 'NAME', 'received', 'N', 'cycles', 'of'] ['chemotherapy', 'followed', 'by', 'N', 'doses', 'of', 'rituxan', 'and', 'reportedly', 'had']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['saturations', 'N', 'on', 'N', 'liters', 'per', 'minute', 'by', 'nasal', 'cannula'] ['is', 'N', 'central', 'venous', 'oxygen', 'saturation', 'is', 'N', 'heent', 'pupils']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['about', 'N', 'with', 'nasal', 'cannula', 'oxygen', 'saturation', 'at', 'N', 'a'] ['line', 'has', 'been', 'placed', 'and', 'pressures', 'are', 'about', 'N', 'the']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['bumex', 'he', 'was', 'felt', 'to', 'be', 'fluid', 'overloaded', 'as', 'his'] ['was', 'elevated', 'renal', 'consult', 'was', 'obtained', 'they', 'thought', 'his', 'acute']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['rate', 'N', 'sats', 'N', 'on', 'N', 'fioN', 'pa', 'pressures', 'NN'] ['N', 'general', 'she', 'is', 'intubated', 'and', 'sedated', 'heent', 'shows', 'significant']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['she', 'received', 'they', 'noted', 'recent', 'normal', 'echocardiogram', 'with', 'a', 'normal'] ['of', 'N', 'while', 'the', 'patient', 'was', 'in', 'the', 'surgical', 'intensive']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['autonomic', 'instability', 'a', 'central', 'line', 'was', 'placed', 'to', 'monitor', 'her'] ['and', 'it', 'is', 'low', 'we', 'will', 'volume', 'resuscitate', 'to', 'bring']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['have', 'a', 'large', 'right', 'ventricle', 'recommendations', 'N', 'central', 'line', 'and'] ['monitoring', 'keeping', 'in', 'mind', 'that', 'she', 'does', 'have', 'tricuspid', 'valve']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['flow', 'N', 'liters', 'at', 'an', 'rmp', 'of', 'N', 'to', 'N'] ['N', 'she', 'is', 'off', 'neo', 'synephrine', 'respiratory', 'bilateral', 'breath', 'sounds']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['nonicteric', 'oropharynx', 'is', 'moist', 'neck', 'thick', 'and', 'difficult', 'to', 'appreciate'] ['cardiovascular', 'normal', 'sN', 'sN', 'regular', 'in', 'rate', 'and', 'rhythm', 'chest']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+cvp from casi: CORRECT=421 TOTAL=421
+['the', 'N', 's', 'and', 'N', 's', 'the', 'patient', 'was', 'supported', 'on', 'epinephrine', 'a', 'swan', 'ganz', 'catheter', 'was', 'placed', 'showing', 'a'] ['of', 'N', 'pulmonary', 'artery', 'pressure', 'of', 'N', 'cardiac', 'output', 'N', 'a', 'transesophageal', 'echocardiogram', 'was', 'performed', 'in', 'the', 'operating', 'room', 'which']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['care', 'unit', 'at', 'the', 'time', 'of', 'transfer', 'the', 'patient', 'was', 'in', 'atrial', 'fibrillation', 'at', 'a', 'rate', 'of', 'N', 'with', 'a'] ['of', 'N', 'a', 'mean', 'arterial', 'pressure', 'was', 'N', 'he', 'had', 'propofol', 'at', 'N', 'mcg', 'kg', 'per', 'minute', 'and', 'epinephrine', 'at']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['mon', 'N', 'pm', 'no', 'pneumothorax', 'new', 'biv', 'icd', 'in', 'place', 'left', 'sided', 'pleural', 'effusion', 'and', 'adjacent', 'atelectasis', 'persist', 'mild', 'increased'] ['final', 'report', 'reason', 'for', 'examination', 'evaluation', 'of', 'the', 'patient', 'with', 'cardiomyopathy', 'after', 'biventricular', 'icd', 'placement']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['operating', 'room', 'to', 'the', 'cardiothoracic', 'intensive', 'care', 'unit', 'at', 'the', 'time', 'of', 'transfer', 'her', 'mean', 'arterial', 'pressure', 'was', 'N', 'her'] ['was', 'N', 'pad', 'was', 'N', 'she', 'was', 'in', 'a', 'normal', 'sinus', 'rhythm', 'and', 'was', 'transferred', 'with', 'propofol', 'and', 'neo', 'synephrine']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['has', 'improved', 'and', 'moderate', 'to', 'severe', 'cardiomegaly', 'is', 'less', 'pronounced', 'mediastinal', 'veins', 'are', 'no', 'longer', 'as', 'distended', 'indicating', 'decrease', 'in'] ['et', 'tube', 'is', 'in', 'the', 'standard', 'placement', 'and', 'nasogastric', 'tube', 'passes', 'below', 'the', 'diaphragm', 'and', 'out', 'of', 'view', 'pleural', 'effusion']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'bulging', 'of', 'the', 'mediastinal', 'silhouette', 'from', 'the', 'aortic', 'arch', 'to', 'the', 'top', 'of', 'the', 'heart', 'raising', 'concern', 'for', 'increased'] ['that', 'might', 'be', 'due', 'to', 'developing', 'tamponade', 'physiology', 'in', 'the', 'setting', 'of', 'increasing', 'pericardial', 'effusion', 'overall', 'the', 'findings', 'are', 'most']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['chest', 'radiograph', 'low', 'lung', 'volumes', 'limit', 'assessment', 'within', 'this', 'limitation', 'cardiomegaly', 'persists', 'the', 'vascular', 'pedicle', 'is', 'enlarged', 'consistent', 'with', 'increased'] ['or', 'volume', 'an', 'et', 'tube', 'is', 'seen', 'with', 'tip', 'N', 'cm', 'from', 'the', 'carina', 'right', 'internal', 'jugular', 'tip', 'is', 'difficult']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['lung', 'volume', 'has', 'improved', 'small', 'to', 'moderate', 'right', 'pleural', 'effusion', 'remains', 'decreased', 'caliber', 'to', 'the', 'upper', 'mediastinum', 'probably', 'reflects', 'improved'] ['heart', 'size', 'is', 'normal', 'lungs', 'are', 'grossly', 'clear']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['the', 'patients'] ['was', 'initially', 'consistently', 'in', 'the', 'N', 'to', 'N', 'range', 'which', 'was', 'thought', 'to', 'be', 'too', 'low', 'for', 'her', 'and', 'she']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['procedures', 'N', 'transjugular', 'liver', 'biopsy', 'N', 'wedged', 'hepatic', 'and'] ['measurements', 'N', 'exchange', 'of', 'existing', 'right', 'sided', 'internal', 'jugular', 'transvenous', 'catheter', 'for', 'temporary', 'hemodialysis', 'catheter']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['past', 'N', 'hours', 'small', 'bilateral', 'pleural', 'effusions', 'remain', 'heart', 'size', 'is', 'top', 'normal', 'mediastinal', 'vascular', 'caliber', 'suggests', 'improving', 'elevation', 'of'] ['due', 'to', 'volume', 'overload', 'left', 'pic', 'catheter', 'ends', 'at', 'the', 'superior', 'cavoatrial', 'junction']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['least', 'moderate', 'right', 'and', 'small', 'left', 'pleural', 'effusion', 'heart', 'is', 'normal', 'in', 'size', 'but', 'mediastinal', 'veins', 'are', 'dilated', 'indicating', 'elevated'] ['or', 'volume', 'dual', 'channel', 'right', 'central', 'line', 'has', 'been', 'removed', 'no', 'pneumothorax']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['moderately', 'severe', 'pulmonary', 'edema', 'and', 'moderate', 'bilateral', 'pleural', 'effusion', 'unchanged', 'since', 'N', 'mediastinal', 'vascular', 'engorgement', 'has', 'resolved', 'suggesting', 'that'] ['is', 'not', 'increased', 'cardiac', 'silhouette', 'partially', 'obscured', 'probably', 'not', 'enlarged', 'et', 'tube', 'tip', 'at', 'the', 'upper', 'margin', 'of', 'the', 'clavicles']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'and', 'om', 'N', 'and', 'saphenous', 'vein', 'graft', 'to', 'posterior', 'descending', 'artery', 'patient', 'had', 'a', 'mean', 'arterial', 'pressure', 'of', 'N'] ['of', 'N', 'pad', 'of', 'N', 'and', 'of', 'N', 'with', 'N', 'normal', 'sinus', 'rhythm', 'patient', 'was', 'on', 'a', 'nitro', 'drip', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['impression', 'bilateral', 'pleural', 'effusions', 'and', 'mild', 'increased'] ['no', 'frank', 'pulmonary', 'edema', 'left', 'mid', 'lung', 'atelectasis']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['or', 'pleural', 'effusion', 'widening', 'of', 'the', 'upper', 'mediastinum', 'due', 'in', 'part', 'to', 'supine', 'positioning', 'mediastinal', 'fat', 'deposition', 'also', 'suggests', 'elevated'] ['or', 'volume']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['N', 'probably', 'a', 'reflection', 'of', 'decreasing', 'pulmonary', 'edema', 'not', 'necessarily', 'cardiogenic', 'the', 'heart', 'is', 'normal', 'size', 'azygos', 'distention', 'suggests', 'elevated'] ['or', 'volume', 'no', 'pneumothorax', 'heart', 'size', 'normal']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['unchanged', 'cardiac', 'silhouette', 'is', 'enlarged', 'consistent', 'with', 'moderate', 'cardiomegaly', 'and', 'or', 'pericardial', 'effusion', 'accompanied', 'by', 'mediastinal', 'vascular', 'engorgement', 'indicating', 'elevated'] ['or', 'volume', 'no', 'pneumothorax']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['volumes', 'exaggerating', 'heart', 'size', 'likely', 'top', 'normal', 'slightly', 'more', 'apparent', 'azygos', 'vein', 'contour', 'with', 'minimally', 'prominent', 'bilateral', 'hila', 'indicating', 'increased'] ['or', 'degree', 'of', 'volume', 'overload']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'saphenous', 'vein', 'graft', 'to', 'the', 'diagonal', 'the', 'patients', 'pericardium', 'was', 'left', 'open', 'lines', 'placed', 'included', 'arterial', 'swan', 'ganz', 'and'] ['catheters', 'both', 'ventricular', 'and', 'atrial', 'wires', 'were', 'placed', 'mediastinal', 'left', 'and', 'right', 'pleural', 'tubes', 'were', 'placed']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['chf', 'reason', 'for', 'this', 'examination', 'assess', 'for', 'interval', 'change', 'and', 'for', 'focal', 'consolidation', 'pfi', 'report', 'pfi', 'improved', 'interstitial', 'edema', 'and'] ['persistent', 'bronchial', 'opacities', 'which', 'may', 'represent', 'pneumonia', 'versus', 'metastases', 'possible', 'small', 'bilateral', 'pleural', 'effusions', 'stable']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['and', 'mild', 'to', 'moderate', 'pulmonary', 'edema', 'has', 'worsened', 'cardiac', 'silhouette', 'is', 'partially', 'obscured', 'mediastinal', 'vascular', 'engorgement', 'suggests', 'marked', 'elevation', 'of'] ['et', 'tube', 'and', 'left', 'supraclavicular', 'central', 'venous', 'line', 'in', 'standard', 'placements', 'respectively', 'no', 'appreciable', 'pneumothorax', 'previous', 'notation', 'has', 'been', 'made']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['now', 'joined', 'by', 'moderate', 'pulmonary', 'edema', 'worsened', 'since', 'N', 'accompanied', 'by', 'increasing', 'moderate', 'bilateral', 'pleural', 'effusion', 'mediastinal', 'contour', 'indicates', 'elevated'] ['lung', 'volumes', 'are', 'quite', 'low', 'exaggerating', 'heart', 'size', 'which', 'is', 'probably', 'top', 'normal', 'and', 'only', 'slightly', 'enlarged', 'no', 'pneumothorax', 'tip']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['film', 'on', 'N', 'there', 'has', 'been', 'progressive', 'mediastinal', 'widening', 'and', 'increase', 'in', 'size', 'of', 'the', 'cardiac', 'silhouette', 'concerning', 'for', 'elevated'] ['and', 'pericardial', 'effusion', 'given', 'differences', 'in', 'patient', 'positioning', 'compared', 'to', 'N', 'there', 'is', 'probable', 'decrease', 'in', 'size', 'of', 'right', 'pleural']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['time', 'the', 'patient', 'was', 'a', 'paced', 'at', 'N', 'beats', 'per', 'minute', 'with', 'a', 'mean', 'arterial', 'pressure', 'of', 'N', 'and', 'a'] ['of', 'N', 'she', 'had', 'nitroglycerin', 'at', 'N', 'mc', 'kilogram', 'per', 'minute', 'propofol', 'at', 'N', 'mcg', 'kilogram', 'per', 'minute', 'and', 'an']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['at', 'N', 'dobutamine', 'at', 'N', 'neo', 'synephrine', 'at', 'N', 'and', 'propofol', 'at', 'N', 'with', 'a', 'mean', 'arterial', 'pressure', 'of', 'N'] ['of', 'N', 'and', 'pad', 'of', 'N', 'in', 'normal', 'sinus', 'rhythm', 'the', 'day', 'of', 'surgery', 'around', 'N', 'oclock', 'in', 'the', 'morning']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['subsegmental', 'atelectasis', 'at', 'both', 'lung', 'bases', 'heart', 'size', 'is', 'top', 'normal', 'but', 'vascular', 'engorgement', 'widens', 'the', 'superior', 'mediastinum', 'suggesting', 'elevated'] ['or', 'volume', 'swan', 'ganz', 'catheter', 'has', 'been', 'pulled', 'back', 'to', 'the', 'proximal', 'right', 'pulmonary', 'artery', 'et', 'tube', 'is', 'in', 'standard']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['physical', 'examination', 'temperature', 'N', 'blood', 'pressure', 'N', 'kg', 'the', 'patient', 'was', 'sating', 'N'] ['N', 'fingersticks', 'of', 'N', 'the', 'patient', 'was', 'ventilated', 'on', 'assist', 'control', 'N', 'times', 'N', 'fio', 'N', 'with', 'pips', 'of', 'N']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['ago', 'which', 'may', 'be', 'in', 'part', 'due', 'to', 'differences', 'in', 'patient', 'positioning', 'however', 'mediastinal', 'contours', 'appear', 'more', 'prominent', 'suggesting', 'increased'] ['no', 'focal', 'consolidations', 'are', 'seen']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+['pleural', 'effusion', 'is', 'the', 'remnants', 'of', 'pulmonary', 'edema', 'the', 'heart', 'is', 'moderately', 'enlarged', 'mediastinal', 'vascular', 'congestion', 'suggests', 'continued', 'elevation', 'of'] ['no', 'pneumothorax']
+{'central venous pressures', 'central venous pressure'} {'central venous pressures', 'central venous pressure'}
+cvp from mimic: CORRECT=30 TOTAL=30
