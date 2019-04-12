@@ -1,0 +1,63 @@
+Parsing fcn_ne50_ns100_w3.txt
+MIMIC Train Macro: 0.9921
+MIMIC Train Micro: 0.9822
+MIMIC Val Macro: 0.8185
+MIMIC Val Micro: 0.7268
+Casi Macro: 0.5488
+Casi Micro: 0.5630
+Parsing fcn_ne50_ns100_w5.txt
+MIMIC Train Macro: 0.9886
+MIMIC Train Micro: 0.9719
+MIMIC Val Macro: 0.8477
+MIMIC Val Micro: 0.7566
+Casi Macro: 0.5367
+Casi Micro: 0.5396
+Parsing fcn_ne50_ns100_w8.txt
+MIMIC Train Macro: 0.9922
+MIMIC Train Micro: 0.9834
+MIMIC Val Macro: 0.8175
+MIMIC Val Micro: 0.7246
+Casi Macro: 0.5305
+Casi Micro: 0.5429
+Parsing fcn_ne50_ns500_w3.txt
+MIMIC Train Macro: 0.9818
+MIMIC Train Micro: 0.9647
+MIMIC Val Macro: 0.8620
+MIMIC Val Micro: 0.7902
+Casi Macro: 0.5925
+Casi Micro: 0.6142
+Parsing fcn_ne50_ns500_w5.txt
+MIMIC Train Macro: 0.9826
+MIMIC Train Micro: 0.9659
+MIMIC Val Macro: 0.8840
+MIMIC Val Micro: 0.8130
+Casi Macro: 0.5962
+Casi Micro: 0.6166
+Parsing fcn_ne50_ns500_w8.txt
+MIMIC Train Macro: 0.9767
+MIMIC Train Micro: 0.9497
+MIMIC Val Macro: 0.8605
+MIMIC Val Micro: 0.7782
+Casi Macro: 0.5655
+Casi Micro: 0.5802
+Parsing fcn_ne50_ns1000_w3.txt
+MIMIC Train Macro: 0.9777
+MIMIC Train Micro: 0.9547
+MIMIC Val Macro: 0.8778
+MIMIC Val Micro: 0.8122
+Casi Macro: 0.5934
+Casi Micro: 0.6214
+Parsing fcn_ne50_ns1000_w5.txt
+MIMIC Train Macro: 0.9805
+MIMIC Train Micro: 0.9597
+MIMIC Val Macro: 0.8982
+MIMIC Val Micro: 0.8336
+Casi Macro: 0.6092
+Casi Micro: 0.6450
+Parsing fcn_ne50_ns1000_w8.txt
+MIMIC Train Macro: 0.9702
+MIMIC Train Micro: 0.9377
+MIMIC Val Macro: 0.8766
+MIMIC Val Micro: 0.8023
+Casi Macro: 0.5697
+Casi Micro: 0.5977

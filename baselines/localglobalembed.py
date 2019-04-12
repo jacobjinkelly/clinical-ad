@@ -1,0 +1,202 @@
+import ast
+import fastText
+import numpy as np
+from sklearn.utils import shuffle
+import pickle
+import argparse
+
+FASTTEXT_MODEL = None
+IDF_WEIGHTS = None
+hash_word_vectors = {}
+abbr_sense_dict = {}
+label2idx = {}
+
+
+def load_models():
+    global FASTTEXT_MODEL
+
+    FASTTEXT_MODEL = fastText.load_model("../create_samples/word_embeddings.bin")
+
+def read_word_weightings(idf_dict):
+    s = open(idf_dict, 'r').read()
+    whip = ast.literal_eval(s)
+    return whip
+
+class AbbrRep:
+    def __init__(self):
+        self.label = ""
+        self.features_left = []         # context left
+        self.features_right = []        # context right
+        self.features_doc = []          # entire document
+        self.features_doc_left = []     # entire document to left of curr word
+        self.source = ""
+        self.embedding = []
+        self.onehot = None
+
+def load_data(input):
+    source = "_".join(input.split("/")[-1][:-4].split("_")[1:])
+    global abbr_sense_dict
+    global label2idx
+    if source not in abbr_sense_dict:
+        abbr_sense_dict[source] = {}
+    with open(input) as f:
+        for line in f:
+            if line[:-1] == "None":
+                continue
+            try:
+                content = ast.literal_eval(line)
+            except ValueError:
+                print("STOPPED HERE")
+                print(input)
+                print(line)
+
+            label = content[0]
+            sample = AbbrRep()
+
+            if label not in abbr_sense_dict[source]:
+                abbr_sense_dict[source][label] = []
+
+            if label not in label2idx:
+                label2idx[label] = len(label2idx)
+            sample.label = content[0]
+            sample.features_doc = content[1].split()
+            sample.features_doc_left = content[2].split()
+            sample.features_left = content[3].split()
+            sample.features_right = content[4].split()
+            sample.source = source
+            abbr_sense_dict[source][label].append(sample)
+
+
+def get_local_context(opt, x):
+
+    features_left = x.features_left     # words to the left
+    features_right = x.features_right   # words to the right
+    total_number_embeds = 0
+    left_window_len = len(features_left) - max(0, len(features_left) - int(opt.window)) + 1
+    right_window_len = min(len(features_right), int(opt.window))
+
+    if opt.variable_local:
+        local_context = np.zeros((left_window_len + right_window_len, 100))
+    else:
+        local_context = np.zeros((1, 100))
+
+    start_ind = max(0, len(features_left) - int(opt.window))
+    for j in range(start_ind, len(features_left)):
+        if opt.variable_local:
+            local_context[j - start_ind] = FASTTEXT_MODEL.get_word_vector(features_left[j])
+        else:
+            local_context = np.add(local_context, FASTTEXT_MODEL.get_word_vector(features_left[j]))
+        total_number_embeds += 1
+
+    for k in range(0, right_window_len):
+        z = features_right[k]
+        try:
+            word_vector = hash_word_vectors[z]
+        except KeyError:
+            hash_word_vectors[z] = FASTTEXT_MODEL.get_word_vector(z)
+            word_vector = hash_word_vectors[z]
+        if opt.variable_local:
+            local_context[left_window_len + k] = word_vector
+        else:
+            local_context = np.add(local_context, word_vector)
+        total_number_embeds += 1
+
+    if total_number_embeds > 0 and not opt.variable_local:
+        local_context = local_context / total_number_embeds
+    return local_context
+
+def get_global_context(x):
+    total_weighting = 0
+    global_context = np.zeros(100)
+    doc = x.features_doc
+
+    for z in doc:
+        try:
+            current_word_weighting = IDF_WEIGHTS[z]
+        except:
+            current_word_weighting = 0
+        try:
+            word_vector = hash_word_vectors[z]
+        except KeyError:
+            hash_word_vectors[z] = FASTTEXT_MODEL.get_word_vector(z)
+            word_vector = hash_word_vectors[z]
+        global_context = np.add(global_context, (current_word_weighting * word_vector))
+        total_weighting += current_word_weighting
+
+    if total_weighting > 0:
+        global_context = global_context / total_weighting
+
+    return global_context
+
+
+def shuffle_data(abbr_sense_we_dict):
+    shuffled_abbr_sense_we_dict = {}
+    for key in abbr_sense_we_dict:
+        shuffled_abbr_sense_we_dict[key] = {}
+        for subkey in abbr_sense_we_dict[key]:
+            shuffled_abbr_sense_we_dict[key][subkey] = shuffle(abbr_sense_we_dict[key][subkey], random_state=42)
+    return shuffled_abbr_sense_we_dict
+
+
+def create_embed(opt, data):
+    abbr_sense_dict = data
+
+    shuffled_abbr_sense_we_dict = shuffle_data(abbr_sense_dict)
+    training_samples = {}
+
+    columns = 100
+    if opt.g:
+        columns += 100
+
+    for key in shuffled_abbr_sense_we_dict:
+        training_samples[key] = {}
+        for subkey in shuffled_abbr_sense_we_dict[key]:
+            training_samples[key][subkey] = []
+            num_samples = len(shuffled_abbr_sense_we_dict[key][subkey])
+            for i in range(num_samples):
+                training_samples[key][subkey].append(shuffled_abbr_sense_we_dict[key][subkey][i])
+                if opt.variable_local:
+                    x = get_local_context(opt, training_samples[key][subkey][i])
+                    if opt.g:
+                        global_context = get_global_context(training_samples[key][subkey][i])
+                        x = np.concatenate((x, np.expand_dims(global_context, axis=0)), axis=0)
+                    training_samples[key][subkey][i].embedding = x
+                else:
+                    x = np.zeros((1, columns))
+                    x[0][0:100] = get_local_context(opt, training_samples[key][subkey][i])
+                    if opt.g:
+                        x[0][100:200] = get_global_context(training_samples[key][subkey][i])
+                    training_samples[key][subkey][i].embedding = x
+
+    training_samples["label2idx"] = label2idx
+
+    outputfile = opt.outputfile
+
+    pickle_out = open(outputfile, "wb")
+    pickle.dump(training_samples, pickle_out)
+    pickle_out.close()
+
+
+def main():
+    """
+    Main function.
+    """
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-window', required=True, help="max number of words to consider in local_context")
+    parser.add_argument('-g', action="store_true", help="if true, consider global context")
+    parser.add_argument('-variable_local', action="store_true", help="if true, have variable length local context")
+    parser.add_argument('-outputfile', help="name of pickle file to store embeddings in")
+    parser.add_argument('-dataset', required=True, help="pickle file which contains one AbbrRep object per line")
+
+    opt = parser.parse_args()
+
+    pickle_in = open(opt.dataset, 'rb')
+    data = pickle.load(pickle_in)
+
+    load_models()
+    create_embed(opt, data)
+
+
+if __name__ == "__main__":
+   main()

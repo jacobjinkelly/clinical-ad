@@ -1,0 +1,21 @@
+Parsing mfs_ns100.txt
+MIMIC Train Macro: 0.2784
+MIMIC Train Micro: 0.0980
+MIMIC Val Macro: 0.2542
+MIMIC Val Micro: 0.0784
+Casi Macro: 0.2360
+Casi Micro: 0.2335
+Parsing mfs_ns500.txt
+MIMIC Train Macro: 0.3568
+MIMIC Train Micro: 0.1393
+MIMIC Val Macro: 0.3402
+MIMIC Val Micro: 0.1283
+Casi Macro: 0.2443
+Casi Micro: 0.2737
+Parsing mfs_ns1000.txt
+MIMIC Train Macro: 0.4000
+MIMIC Train Micro: 0.1713
+MIMIC Val Macro: 0.3896
+MIMIC Val Micro: 0.1652
+Casi Macro: 0.2612
+Casi Micro: 0.3018
