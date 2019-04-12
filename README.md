@@ -4,4 +4,7 @@ Code for "A conceptual route to unsupervised medical abbreviation disambiguation
 There are two Jupyter notebooks (and corresponding static HTML) reproducing the main results from our paper: 
 
 `baselines/baselines.ipynb` for the baseline models
-`train_model/concept_embeddings/csc2541_finalProject_results.ipynb` for the concept embedding model 
+`train_model/concept_embeddings/csc2541_finalProject_results.ipynb` for the concept embedding model
+
+## Team
+[Marta Skreta](https://github.com/martaskrt), [Jacob Kelly](https://github.com/jacobjinkelly) 
