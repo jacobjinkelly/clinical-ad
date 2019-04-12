@@ -1,5 +1,5 @@
 # clinical-ad
-Code for "Improving abbreviation disambiguation in clinical notes using local and global contexts", final project for [CSC2541: Machine Learning For Health](https://cs2541-ml4h2019.github.io/index.html)
+Code for "A conceptual route to unsupervised medical abbreviation disambiguation", final project for [CSC2541: Machine Learning For Health](https://cs2541-ml4h2019.github.io/index.html)
 
 There are two Jupyter notebooks (and corresponding static HTML) reproducing the main results from our paper: 
 
